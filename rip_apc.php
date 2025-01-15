@@ -41,8 +41,11 @@ foreach (glob(__DIR__.'/data/apc/'.'*.html') as $file) {
                             $attrib = "documents";
                             $docs = [];
                             foreach ($data['documents'] as $docData) {
-                                $docs[] = [
-                                    'url' => $docData['url'],
+                                $url = $docData['url'];
+                                if (substr($url, 0, 6) == 'https:') {
+                                    $url = substr($url, 6);
+                                }
+                                $docs[$url] = [
                                     'type' => $docData['documentType'],
                                     'file' => $docData['documentName'],
                                     'title' => $docData['titleForDisplay'],
@@ -79,6 +82,25 @@ foreach (glob(__DIR__.'/data/apc/'.'*.html') as $file) {
                 continue;
             }
         }
+    }
+    $json = json_decode(file_get_contents(__DIR__.'/data/apc/dl/'.basename($file, '.html').'.json'), true);
+    foreach ($json['documents'] as $docData) {
+        $url = $docData['downloadUrl'];
+        $data = [
+            'type' => $docData['enDocType'],
+            'file' => $docData['filename'],
+            'title' => $docData['title'],
+        ];
+        if (!is_null($docData['description'])) {
+            $data['description'] = $docData['description'];
+        }            
+        if (count($docData['documentFiles']) > 1) {
+            $data['files'] = [];
+            foreach ($docData['documentFiles'] as $docFile) {
+                $data['files'][$docFile['downloadFileURL']] = $docFile['filename'];
+            }
+        }
+        $item['documents'][$url] = $data;
     }
     $items[$item["product-id"]] = $item;
 }
