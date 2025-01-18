@@ -1,0 +1,1523 @@
+{
+    "documentsCount": 12,
+    "dataSource": "BSL Rest",
+    "documents": [
+        {
+            "reference": "AR3812_REACH_DECLARATION",
+            "title": "AR3812 REACh Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_REACH_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "APC NetShelter AV, Server Rack Enclosure, 42U, 10-32 Threaded Rails, without Sides, Roofs, Doors, Black, 1991H x 600W x 806D mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3812_REACH_DECLARATION_US_en-US.pdf",
+            "documentId": 123531554931,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3812_REACH_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "AR3812_REACH_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3812_REACH_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "REACh Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SP_RacksPocketGuide_230V",
+            "title": "APC Racks eGuide - Global Edition",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jun/11/2024",
+            "shortDescription": "Schneider Electric delivers globally available and scalable APC rack solutions for almost any application, from large-scale data centers to edge...",
+            "description": "Schneider Electric delivers globally available and scalable APC rack solutions for almost any application, from large-scale data centers to edge spaces and even harsh industrial environments. With a large selection of cable management and other accessories, APC racks provide a reliable foundation for your organization’s entire IT infrastructure.",
+            "size": "55.2 MB",
+            "version": "2",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_enDocType=Catalog&p_File_Name=1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+            "documentId": 123909123472,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555852-Catalog",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+            "enDocType": "Catalog",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+                    "id": "124052189248",
+                    "size": "55.2 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_enDocType=Catalog&p_File_Name=1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+                    "disableDownload": false,
+                    "checkSum": "6042d4d6e98c6ee7b352edbf9c1b8ccb",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "ENVPEP1512008",
+            "title": "Rack enclosures and accessories, ENV Disclosure, PEP, Schneider Electric",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/30/2024",
+            "shortDescription": null,
+            "description": null,
+            "size": "969.7 KB",
+            "version": "V1",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP1512008_V1.pdf",
+            "documentId": 123881129880,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555857-Environmental Disclosure",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "ENVPEP1512008_V1.pdf",
+            "enDocType": "Environmental Disclosure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "ENVPEP1512008_V1.pdf",
+                    "id": "124084815331",
+                    "size": "969.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP1512008_V1.pdf",
+                    "disableDownload": false,
+                    "checkSum": "ecc1993e7c0e35635de633b6e130b749",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "Product Environmental Profile"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V1",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JKUR-ATJL8V_EN",
+            "title": "Office of Statewide Health Planning and Development (OSHPD) Preapproval for NetShelter SX Products in commercial and seismic rack applications",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-ATJL8V_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/23/2022",
+            "shortDescription": "NetShelter SX IT Cabinet in commercial and seismic racks OSHPD Application for Preapproval",
+            "description": null,
+            "size": "1.3 MB",
+            "version": "V1",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-ATJL8V_EN&p_enDocType=Certificate&p_File_Name=OPM-0255.pdf",
+            "documentId": 123921191507,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555861-Certificate",
+            "docTypeGroups": [
+                {
+                    "id": 120245951356,
+                    "label": "Conformity Assessments",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "OPM-0255.pdf",
+            "enDocType": "Certificate",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "OPM-0255.pdf",
+                    "id": "123921191515",
+                    "size": "1.3 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-ATJL8V_EN&p_enDocType=Certificate&p_File_Name=OPM-0255.pdf",
+                    "disableDownload": false,
+                    "checkSum": "f1bb551fe81cff6f8d3a5c22bc207483",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V1",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "AR3812_ROHS_DECLARATION",
+            "title": "AR3812 EU RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_ROHS_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "APC NetShelter AV, Server Rack Enclosure, 42U, 10-32 Threaded Rails, without Sides, Roofs, Doors, Black, 1991H x 600W x 806D mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3812_ROHS_DECLARATION_US_en-US.pdf",
+            "documentId": 27578758079,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3812_ROHS_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "AR3812_ROHS_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3812_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3812_ROHS_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "EU RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JSAI-7VJJXL_EN",
+            "title": "NetShelter AV 42 U and 42 U Open-Frame Enclosures Unpacking, Installation, and Customization Manual",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSAI-7VJJXL_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Nov/18/2018",
+            "shortDescription": "Includes enclosure unpacking and installation instructions, details for mounting equipment, specifications, and accessory information.",
+            "description": null,
+            "size": "1.8 MB",
+            "version": "V2",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSAI-7VJJXL_EN&p_enDocType=User+guide&p_File_Name=JSAI-7VJJXL_R2_EN.pdf",
+            "documentId": 123773379106,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555855-User guide",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "JSAI-7VJJXL_R2_EN.pdf",
+            "enDocType": "User guide",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "JSAI-7VJJXL_R2_EN.pdf",
+                    "id": "123773379114",
+                    "size": "1.8 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSAI-7VJJXL_EN&p_enDocType=User+guide&p_File_Name=JSAI-7VJJXL_R2_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "5765e40b0920ba2d9093d584ef47676a",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "ENVPEP1512008_EN",
+            "title": "Rack Air Distribution, ENV Disclosure, PEP, Schneider Electric",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Dec/30/2015",
+            "shortDescription": null,
+            "description": null,
+            "size": "969.7 KB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008_EN&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP1512008_V1.pdf",
+            "documentId": 124050509096,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555857-Environmental Disclosure",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "ENVPEP1512008_V1.pdf",
+            "enDocType": "Environmental Disclosure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "ENVPEP1512008_V1.pdf",
+                    "id": "124084896306",
+                    "size": "969.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP1512008_EN&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP1512008_V1.pdf",
+                    "disableDownload": false,
+                    "checkSum": "ecc1993e7c0e35635de633b6e130b749",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "Product Environmental Profile"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "ENVEOLI1512008_EN",
+            "title": "Rack enclosures and accessories, Circularity Profile, EOLI, Schneider Electric",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVEOLI1512008_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Dec/01/2015",
+            "shortDescription": null,
+            "description": null,
+            "size": "1.3 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVEOLI1512008_EN&p_enDocType=Circularity+Profile&p_File_Name=ENVEOLI_1512008_V1.pdf",
+            "documentId": 123915895751,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555858-Circularity Profile",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "ENVEOLI_1512008_V1.pdf",
+            "enDocType": "Circularity Profile",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "ENVEOLI_1512008_V1.pdf",
+                    "id": "126404485134",
+                    "size": "1.3 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=ENVEOLI1512008_EN&p_enDocType=Circularity+Profile&p_File_Name=ENVEOLI_1512008_V1.pdf",
+                    "disableDownload": false,
+                    "checkSum": "a8ced0d10220e3f14a92f06866f84a8d",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "End of Life Instructions"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_MKEY-98ZJEK_EN",
+            "title": "NetShelter SX Quick Unpacking Instructions",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-98ZJEK_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Feb/16/2015",
+            "shortDescription": "Quick Unpacking Instructions for NetShelter SX",
+            "description": null,
+            "size": "1.2 MB",
+            "version": "V2",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-98ZJEK_EN&p_enDocType=Instruction+sheet&p_File_Name=MKEY-98ZJEK_R2_EN.pdf",
+            "documentId": 123877140560,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555854-Instruction Sheet",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "MKEY-98ZJEK_R2_EN.pdf",
+            "enDocType": "Instruction sheet",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "MKEY-98ZJEK_R2_EN.pdf",
+                    "id": "123877140568",
+                    "size": "1.2 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-98ZJEK_EN&p_enDocType=Instruction+sheet&p_File_Name=MKEY-98ZJEK_R2_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "4e86f85a793b2a58060e3db7b93532fb",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JKUR-9FMLJL_EN",
+            "title": "NetShelter AV Enclosures, Rack Cooling, and Rack Accessories Brochure",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-9FMLJL_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/24/2014",
+            "shortDescription": "Product brochure for the NetShelter AV Enclosures, Rack Cooling, and Rack Accessories",
+            "description": null,
+            "size": "280.9 KB",
+            "version": "V0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-9FMLJL_EN&p_enDocType=Brochure&p_File_Name=JKUR-9FMLJL_R0_EN.pdf",
+            "documentId": 123848336090,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555865-Brochure",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "JKUR-9FMLJL_R0_EN.pdf",
+            "enDocType": "Brochure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "JKUR-9FMLJL_R0_EN.pdf",
+                    "id": "123848336098",
+                    "size": "280.9 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JKUR-9FMLJL_EN&p_enDocType=Brochure&p_File_Name=JKUR-9FMLJL_R0_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "c51569243f040eb35c6ed1099be0823b",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V0",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JLON-8N2GTX_EN",
+            "title": "BIM Model for AR3812 - Rack-Enclosure-Schneider_Electric-NetShelter_AV-Deep_Enclosure-(600x825x42U)",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JLON-8N2GTX_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/02/2013",
+            "shortDescription": "BIM Models, Racks, NetShelter AV",
+            "description": null,
+            "size": "324 KB",
+            "version": "V2",
+            "locales": "English",
+            "extension": "rfa",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JLON-8N2GTX_EN&p_enDocType=BIM+Model&p_File_Name=Rack-Enclosure-Schneider_Electric-NetShelter_AV-Deep_Enclosure-%28600x825x42U%29.rfa",
+            "documentId": 123908028530,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "39355421577-BIM Model",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "Rack-Enclosure-Schneider_Electric-NetShelter_AV-Deep_Enclosure-(600x825x42U).rfa",
+            "enDocType": "BIM Model",
+            "documentFiles": [
+                {
+                    "extension": "rfa",
+                    "filename": "Rack-Enclosure-Schneider_Electric-NetShelter_AV-Deep_Enclosure-(600x825x42U).rfa",
+                    "id": "123908028538",
+                    "size": "324 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JLON-8N2GTX_EN&p_enDocType=BIM+Model&p_File_Name=Rack-Enclosure-Schneider_Electric-NetShelter_AV-Deep_Enclosure-%28600x825x42U%29.rfa",
+                    "disableDownload": false,
+                    "checkSum": "349082d97bac24ed86b5c76d848b88f3",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_KCHY-899A7F_EN",
+            "title": "AR3812 - NetShelter AV 42U 600mm Wide x 825mm Deep Enclosure",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KCHY-899A7F_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Feb/10/2012",
+            "shortDescription": "Racks and Enclosures, NetShelter SX",
+            "description": null,
+            "size": "1.4 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "ZIP",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 2,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KCHY-899A7F_EN&p_enDocType=Technical+Drawing&p_Archive_Name=SPD_KCHY-899A7F_EN.zip",
+            "documentId": 123884902847,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "305454116-Technical Drawing",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "SPD_KCHY-899A7F_EN.zip",
+            "enDocType": "Technical Drawing",
+            "documentFiles": [
+                {
+                    "extension": "dwg",
+                    "filename": "AR3812_-_NetShelter_AV_42U_600mm_Wide_x_825mm_Deep_Enclosure_REV01.dwg",
+                    "id": "123884902855",
+                    "size": "1.1 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KCHY-899A7F_EN&p_enDocType=Technical+Drawing&p_File_Name=AR3812_-_NetShelter_AV_42U_600mm_Wide_x_825mm_Deep_Enclosure_REV01.dwg",
+                    "disableDownload": false,
+                    "checkSum": "17d2a43bed8f366aa76070f344b1a6e1",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "pdf",
+                    "filename": "KCHY-899A7F_R1_EN.pdf",
+                    "id": "123884902856",
+                    "size": "304.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KCHY-899A7F_EN&p_enDocType=Technical+Drawing&p_File_Name=KCHY-899A7F_R1_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "b3caf0a7654d7708f9ab1f2a6975d117",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Typical Drawing"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        }
+    ],
+    "documentFilters": {
+        "documentTypeGroups": [
+            {
+                "id": 120245927022,
+                "label": "CAD, Drawings, & Curves",
+                "numberOfDocs": 2,
+                "baseName": "CAD, Drawings, & Curves",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245911031,
+                "label": "Catalogs & Brochures",
+                "numberOfDocs": 2,
+                "baseName": "Catalogs & Brochures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245951356,
+                "label": "Conformity Assessments",
+                "numberOfDocs": 1,
+                "baseName": "Conformity Assessments",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246088490,
+                "label": "Installation & User Guides",
+                "numberOfDocs": 2,
+                "baseName": "Installation & User Guides",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246343550,
+                "label": "Sustainability",
+                "numberOfDocs": 5,
+                "baseName": "Sustainability",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "documentTypes": [
+            {
+                "id": 39355421577,
+                "label": "BIM Model",
+                "numberOfDocs": 1,
+                "baseName": "BIM Model",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555865,
+                "label": "Brochure",
+                "numberOfDocs": 1,
+                "baseName": "Brochure",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555852,
+                "label": "Catalog",
+                "numberOfDocs": 1,
+                "baseName": "Catalogue",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555861,
+                "label": "Certificate",
+                "numberOfDocs": 1,
+                "baseName": "Certificate",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555858,
+                "label": "Circularity Profile",
+                "numberOfDocs": 1,
+                "baseName": "Circularity Profile",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97899892876,
+                "label": "Declaration of conformity",
+                "numberOfDocs": 2,
+                "baseName": "Declaration of conformity",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555857,
+                "label": "Environmental Disclosure",
+                "numberOfDocs": 2,
+                "baseName": "Environmental disclosure",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555854,
+                "label": "Instruction Sheet",
+                "numberOfDocs": 1,
+                "baseName": "Instruction sheet",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 305454116,
+                "label": "Technical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Technical Drawing",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555855,
+                "label": "User guide",
+                "numberOfDocs": 1,
+                "baseName": "User guide",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "languages": [
+            {
+                "id": 0,
+                "label": "All languages",
+                "numberOfDocs": null,
+                "baseName": "All",
+                "name": null,
+                "checked": true,
+                "static": false
+            },
+            {
+                "id": 4604579,
+                "label": "English",
+                "numberOfDocs": 12,
+                "baseName": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "categories": [
+            {
+                "id": 10572696304,
+                "label": "Cooling",
+                "numberOfDocs": 2,
+                "baseName": "Cooling",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696318,
+                "label": "Power Distribution",
+                "numberOfDocs": 1,
+                "baseName": "Power Distribution",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696328,
+                "label": "Racks and Accessories",
+                "numberOfDocs": 8,
+                "baseName": "Racks and Accessories",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "subCategories": [
+            {
+                "id": 16893283892,
+                "label": "Containment and Air Distribution",
+                "numberOfDocs": 2,
+                "baseName": "Containment and Air Distribution",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 17817531900,
+                "label": "Data Center Containment",
+                "numberOfDocs": 1,
+                "baseName": "Data Center Containment",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696332,
+                "label": "LCD Monitors and KVM Switches",
+                "numberOfDocs": 1,
+                "baseName": "LCD Monitors and KVM Switches",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696334,
+                "label": "Rack and Enclosure Accessories",
+                "numberOfDocs": 2,
+                "baseName": "Rack and Enclosure Accessories",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696330,
+                "label": "Racks and Enclosures",
+                "numberOfDocs": 7,
+                "baseName": "Racks and Enclosures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696326,
+                "label": "Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": "Transfer Switches",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "ranges": [
+            {
+                "id": 62582,
+                "label": "Custom",
+                "numberOfDocs": 2,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61815,
+                "label": "NetShelter Airflow Management",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297115,
+                "label": "NetShelter Aisle Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61816,
+                "label": "NetShelter Cable Management",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 86356023,
+                "label": "NetShelter Configurable Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61820,
+                "label": "NetShelter CX Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61819,
+                "label": "NetShelter Enclosure Components",
+                "numberOfDocs": 2,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61812,
+                "label": "NetShelter Ethernet Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61813,
+                "label": "NetShelter KVM Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61823,
+                "label": "NetShelter Open Frame Racks",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297116,
+                "label": "NetShelter Pod Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297117,
+                "label": "NetShelter Rack Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61814,
+                "label": "NetShelter Rack LCD Consoles",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 48786702,
+                "label": "NetShelter Rugged Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61818,
+                "label": "NetShelter Shelving & Mounting Accessories",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 203414049,
+                "label": "NetShelter Soundproof Racks",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61824,
+                "label": "NetShelter Specialty Enclosures",
+                "numberOfDocs": 7,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62589,
+                "label": "NetShelter SV Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61821,
+                "label": "NetShelter SX Enclosures",
+                "numberOfDocs": 3,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61811,
+                "label": "NetShelter Wall (Mounted) Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 65999,
+                "label": "NetShelter Wall-mount Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61773,
+                "label": "Rack Air Distribution",
+                "numberOfDocs": 2,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61810,
+                "label": "Rack-mount Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "productBrands": null,
+        "applications": null,
+        "productReferenceGroup": null,
+        "contentTypes": null,
+        "operatingSystems": null,
+        "contents": [
+            {
+                "id": 100438137,
+                "label": "Typical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Typical Drawing",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "perimeters": [
+            {
+                "id": 97894146728,
+                "label": "Generic",
+                "numberOfDocs": 6,
+                "baseName": "Generic",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "conformityInformation": [
+            {
+                "id": 97894145282,
+                "label": "End of Life Instructions",
+                "numberOfDocs": 1,
+                "baseName": "End of Life Instructions",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894161151,
+                "label": "EU RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "EU RoHS Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145424,
+                "label": "Product Environmental Profile",
+                "numberOfDocs": 2,
+                "baseName": "Product Environmental Profile",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894159858,
+                "label": "REACh Declaration",
+                "numberOfDocs": 1,
+                "baseName": "REACh Declaration",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "organizations": [
+            {
+                "id": 1556049,
+                "label": "SCHNEIDER ELECTRIC",
+                "numberOfDocs": 5,
+                "baseName": "Schneider Electric",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "certificationCountries": [
+            {
+                "id": 97894145693,
+                "label": "International",
+                "numberOfDocs": 5,
+                "baseName": "International",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "standards": null,
+        "domains": null,
+        "audienceFacets": null,
+        "businessTypes": null
+    },
+    "sortByOptions": {
+        "Document_Date_New": "Sort by newest",
+        "Popularity": "Sort by most popular"
+    },
+    "itemsPerPageOptions": "10, 20, 30, 50, 100",
+    "criteria": {
+        "sortByField": "Document_Date_New",
+        "isIdolConsumer": "false",
+        "pageNumber": "1",
+        "itemsPerPage": "20"
+    }
+}

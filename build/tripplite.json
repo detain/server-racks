@@ -1007,7 +1007,7 @@
             "Toolless button keyhole mounting slots accept PDUs or cable managers"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr2post-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr2post-front-2xl.jpg": "front view thumbnail image",
             "": "SR2POST video"
         }
     },
@@ -1069,12 +1069,12 @@
             "Maximum load capacity is 2000 lb."
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp12hd-other05-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR2POSTDP24HD": {
@@ -1135,19 +1135,19 @@
             "Maximum load capacity is 2000 lb."
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr2postdp24hd-other12-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42BMDEXPNDNR3": {
@@ -1220,9 +1220,9 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42bmdexpndnr3-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UB": {
@@ -1318,23 +1318,23 @@
             "Provides physical equipment and media security required for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ub-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr42ub-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub-other15-2xl.jpg": "other view thumbnail image",
             "": "SR42UB video"
         }
     },
@@ -1413,10 +1413,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ub1032-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub1032-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub1032-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ub1032-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ub1032-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub1032-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub1032-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ub1032-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBCL": {
@@ -1502,8 +1502,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubcl-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubcl-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubcl-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubcl-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBDP": {
@@ -1580,8 +1580,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubdp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubdp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubdp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubdp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR42UBDP48": {
@@ -1643,8 +1643,8 @@
             "Provides physical equipment and media security required for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubdp48-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubdp48-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubdp48-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubdp48-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR42UBDPWD": {
@@ -1721,8 +1721,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubdpwd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubdpwd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubdpwd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubdpwd-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR42UBEIS": {
@@ -1807,16 +1807,16 @@
             "12 High-Performance Fans: Maintain ample airflow to keep equipment cool"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubeis-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubeis-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubeis-other09-2xl.jpg": "other view thumbnail image",
             "": "SR42UBEIS video"
         }
     },
@@ -1893,8 +1893,8 @@
             "Rolls through standard 7-ft. (2.13 m) doorway"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubexp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubexp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubexp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubexp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR42UBEXPND": {
@@ -1968,7 +1968,7 @@
             "Includes 50 M6 cage nuts and 50 M6 screws for mounting equipment"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubexpnd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubexpnd-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR42UBEXPNDNR3": {
@@ -2040,7 +2040,7 @@
             "Comes with equipment mounting hardware (M6 cage nuts and M6 screws)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubexpndnr3-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubexpndnr3-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR42UBG": {
@@ -2114,7 +2114,7 @@
             "Ships assembled for quick and easy deployment"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubg-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubg-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR42UBKD": {
@@ -2194,10 +2194,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubkd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubkd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubkd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubkd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr42ubkd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubkd-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubkd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubkd-other02-2xl.jpg": "other view thumbnail image",
             "": "SR42UBKD video"
         }
     },
@@ -2276,9 +2276,9 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubmd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubmd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubmd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubmd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubmd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubmd-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBMDEXP": {
@@ -2352,8 +2352,8 @@
             "Rolls through standard 7-ft. (2.13 m) doorways"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubmdexp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubmdexp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubmdexp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubmdexp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR42UBMDEXPND": {
@@ -2426,7 +2426,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubmdexpnd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubmdexpnd-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR42UBSD": {
@@ -2502,10 +2502,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubsd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubsd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBSD1032": {
@@ -2583,10 +2583,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubsd1032-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd1032-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd1032-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsd1032-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubsd1032-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd1032-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd1032-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsd1032-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBSP1": {
@@ -2664,9 +2664,9 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsp1-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubsp1-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubsp1-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsp1-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubsp1-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBWD": {
@@ -2749,9 +2749,9 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubwd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubwd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBWD8": {
@@ -2821,22 +2821,22 @@
             "Provides physical equipment and media security needed for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwd8-other15-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBWDSP1": {
@@ -2913,10 +2913,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdsp1-other03-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBWDVRT": {
@@ -2990,10 +2990,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubwdvrt-other03-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR42UBZ4": {
@@ -3068,12 +3068,12 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr42ubz4-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubz4-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubz4-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubz4-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubz4-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr42ubz4-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr42ubz4-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubz4-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubz4-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubz4-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubz4-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr42ubz4-other05-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR45UB": {
@@ -3158,13 +3158,13 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ub-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ub-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr45ub-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ub-other05-2xl.jpg": "other view thumbnail image",
             "": "SR45UB video"
         }
     },
@@ -3232,8 +3232,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubdp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubdp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR45UBDP48": {
@@ -3292,25 +3292,25 @@
             "Provides physical equipment and media security required for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdp48-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdp48-other17-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR45UBDPWD": {
@@ -3378,8 +3378,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubdpwd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubdpwd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubdpwd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubdpwd-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR45UBEXP": {
@@ -3454,8 +3454,8 @@
             "Locking, removable, reversible front and rear doors"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubexp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubexp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubexp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubexp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR45UBEXPND": {
@@ -3529,7 +3529,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubexpnd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubexpnd-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR45UBEXPNDNR3": {
@@ -3603,7 +3603,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubexpndnr3-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubexpndnr3-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR45UBMD": {
@@ -3683,9 +3683,9 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubmd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubmd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubmd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubmd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubmd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubmd-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR45UBMDEXPND": {
@@ -3757,7 +3757,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubmdexpnd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubmdexpnd-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR45UBSD": {
@@ -3833,8 +3833,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubsd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubsd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubsd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubsd-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR45UBSP1": {
@@ -3910,9 +3910,9 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubsp1-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubsp1-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubsp1-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubsp1-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubsp1-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR45UBWD": {
@@ -3983,18 +3983,18 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwd-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR45UBWDSP1": {
@@ -4067,8 +4067,8 @@
             "Ships on a special pallet with additional reinforcement and shock-absorbing material"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubwdsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwdsp1-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubwdsp1-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwdsp1-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR45UBWDVRT": {
@@ -4143,10 +4143,10 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr45ubwdvrt-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR48UB": {
@@ -4234,8 +4234,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ub-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ub-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr48ub-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ub-back-2xl.jpg": "back view thumbnail image",
             "": "SR48UB video"
         }
     },
@@ -4317,8 +4317,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubcl-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubcl-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubcl-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubcl-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR48UBDP": {
@@ -4382,8 +4382,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubdp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubdp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR48UBDP48": {
@@ -4442,8 +4442,8 @@
             "Provides physical equipment and media security required for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubdp48-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdp48-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubdp48-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdp48-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR48UBDPWD": {
@@ -4517,8 +4517,8 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR48UBDPWD8": {
@@ -4576,22 +4576,22 @@
             "Ships fully assembled for quick deployment on pre-installed casters and levelers"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubdpwd8-other15-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR48UBEXP": {
@@ -4666,8 +4666,8 @@
             "Locking, removable, reversible front and rear doors"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubexp-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubexp-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubexp-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubexp-back-2xl.jpg": "back view thumbnail image"
         }
     },
     "SR48UBEXPND": {
@@ -4730,7 +4730,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubexpnd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubexpnd-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR48UBEXPNDNR3": {
@@ -4802,7 +4802,7 @@
             "Includes 50 pieces of M6 cage nuts and 50 pieces of M6 screws (equipment mounting hardware)"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubexpndnr3-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubexpndnr3-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR48UBSP1": {
@@ -4870,7 +4870,7 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubsp1-front-2xl.jpg": "front view thumbnail image"
         }
     },
     "SR48UBWD": {
@@ -4946,19 +4946,19 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubwd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubwd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd-other02-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR48UBWD8": {
@@ -5015,22 +5015,22 @@
             "Provides physical equipment and media security needed for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwd8-other15-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR48UBWDSP1": {
@@ -5096,22 +5096,22 @@
             "Meets all enclosure requirements towards PCI DSS (Payment Card Industry Data Security Standard) Compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr48ubwdsp1-other15-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR4POST": {
@@ -5183,7 +5183,7 @@
             "Toolless button holes to accept PDUs or cable managers"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr4post-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/sr4post-front-2xl.jpg": "front view thumbnail image",
             "": "SR4POST video"
         }
     },
@@ -5246,8 +5246,8 @@
             "Toolless button holes to accept PDUs or cable managers"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr4post1224-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post1224-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr4post1224-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post1224-other01-2xl.jpg": "other view thumbnail image"
         }
     },
     "SR4POST48HD": {
@@ -5304,12 +5304,12 @@
             "Toolless button holes to accept PDUs or cable managers"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/sr4post48hd-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post48hd-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post48hd-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post48hd-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post48hd-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/sr4post48hd-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/sr4post48hd-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post48hd-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post48hd-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post48hd-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post48hd-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/sr4post48hd-other04-2xl.jpg": "other view thumbnail image"
         }
     },
     "SRCOOL5KWRM42U": {
@@ -5418,28 +5418,28 @@
             "Rack includes pre-installed 1U blanks that optimize cold air flow though IT equipment only"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-front-2xl.jpg": "front view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other01-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other02-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other03-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other04-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other05-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other06-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other07-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other08-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other09-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other10-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other11-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other12-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other13-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other14-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other15-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other16-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other17-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other18-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other19-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other20-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
-            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other21-2xl.jpg": "other view thumbnail image | Data Center & IT Rack Cooling",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srcool5kwrm42u-other21-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srcool5kwrm42u-features.jpg": "SRCOOL5KWRM42U highlights",
             "": "SRCOOL5KWRM42U video"
         }
@@ -5810,34 +5810,34 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdp54wd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh42uwdp54wd8-features.jpg": "SRH42UWDP54WD8 highlights"
         }
     },
@@ -5911,33 +5911,33 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwdpwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh42uwdpwd8-features.jpg": "SRH42UWDPWD8 highlights"
         }
     },
@@ -6011,34 +6011,34 @@
             "Provides physical equipment and media security needed for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh42uwwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh42uwwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh42uwwd8-features.jpg": "SRH42UWWD8 highlights"
         }
     },
@@ -6408,32 +6408,32 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdp54wd8-other25-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh45uwdp54wd8-features.jpg": "SRH45UWDP54WD8 highlights"
         }
     },
@@ -6507,33 +6507,33 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwdpwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh45uwdpwd8-features.jpg": "SRH45UWDPWD8 highlights"
         }
     },
@@ -6607,34 +6607,34 @@
             "Provides physical equipment and media security needed for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh45uwwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh45uwwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh45uwwd8-features.jpg": "SRH45UWWD8 highlights"
         }
     },
@@ -7002,33 +7002,33 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdp54wd8-other26-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh48uwdp54wd8-features.jpg": "SRH48UWDP54WD8 highlights"
         }
     },
@@ -7102,33 +7102,33 @@
             "Extra wide to allow side channels for accessory mounting, cable routing and airflow"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwdpwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh48uwdpwd8-features.jpg": "SRH48UWDPWD8 highlights"
         }
     },
@@ -7202,34 +7202,34 @@
             "Provides physical equipment and media security needed for PCI DSS compliance"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other12-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other13-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other14-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other15-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other16-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other17-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other18-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other19-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other20-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other21-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other22-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other23-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other24-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other25-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other26-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srh48uwwd8-other27-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other12-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other13-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other16-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other17-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other18-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other19-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other20-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other21-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other22-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other23-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other24-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other25-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other26-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srh48uwwd8-other27-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/feature-focus/srh48uwwd8-features.jpg": "SRH48UWWD8 highlights"
         }
     },
@@ -7337,24 +7337,24 @@
             "Ideal for edge computing, AI and machine learning, and manufacturing applications"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srprc12-front-2xl.jpg": "front view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-back-2xl.jpg": "back view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-other01-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-other02-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc12-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-other02-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc12-other03-2xl.jpg": "Precision cooling fans direct airflow to the Rack Enclosure.",
             "//assets.tripplite.com/2xl-image/srprc12-other04-2xl.jpg": "Removable side panels unlock for access to equipment or configuration changes.",
             "//assets.tripplite.com/2xl-image/srprc12-other05-2xl.jpg": "Vertical accessory bars provide additional mounting for PDU's, cable management, or any other accessories to be mounted vertically into the Enclosure.",
-            "//assets.tripplite.com/2xl-image/srprc12-other06-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc12-other06-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc12-other07-2xl.jpg": "Enclosures lock and are compatible with TANlock by Eaton access control systems for extra security and optional remote monitoring.",
-            "//assets.tripplite.com/2xl-image/srprc12-other08-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc12-other08-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc12-other09-2xl.jpg": "Direct cabling through the brush sections at the top of the units to block unwanted airflow and improve cooling efficiency.",
             "//assets.tripplite.com/2xl-image/srprc12-other10-2xl.jpg": "Removeable panels at the top of the units allow for cabling to be directed through the plenum.",
-            "//assets.tripplite.com/2xl-image/srprc12-other11-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-other12-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc12-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-other12-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc12-other13-2xl.jpg": "Use the cable service entrance for power and data cables to create a drip loop, preventing water from running down them and entering the rack.",
-            "//assets.tripplite.com/2xl-image/srprc12-other14-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-other15-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc12-other16-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc12-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc12-other16-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc12-other17-2xl.jpg": "The condenser mounts on a rooftop or condenser yard and requires professional installation and connection to the indoor cooling unit.",
             "//assets.tripplite.com/feature-focus/srp-r-c12-features.jpg": "SRP-R-C12 highlights",
             "": "SRP-R-C12 video"
@@ -7464,24 +7464,24 @@
             "Ideal for edge computing, AI and machine learning, and manufacturing applications"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srprc25-front-2xl.jpg": "front view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-back-2xl.jpg": "back view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-other01-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-other02-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc25-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-back-2xl.jpg": "back view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-other02-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc25-other03-2xl.jpg": "Precision cooling fans direct airflow to the Rack Enclosure.",
             "//assets.tripplite.com/2xl-image/srprc25-other04-2xl.jpg": "Removable side panels unlock for access to equipment or configuration changes",
             "//assets.tripplite.com/2xl-image/srprc25-other05-2xl.jpg": "Vertical accessory bars provide additional mounting for PDU's, cable management, or any other accessories to be mounted vertically into the Enclosure.",
-            "//assets.tripplite.com/2xl-image/srprc25-other06-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc25-other06-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc25-other07-2xl.jpg": "Enclosures lock and are compatible with TANlock by Eaton access control systems for extra security and optional remote monitoring.",
-            "//assets.tripplite.com/2xl-image/srprc25-other08-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc25-other08-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc25-other09-2xl.jpg": "Direct cabling through the brush sections at the top of the units to block unwanted airflow and improve cooling efficiency.",
             "//assets.tripplite.com/2xl-image/srprc25-other10-2xl.jpg": "Removeable panels at the top of the units allow for cabling to be directed through the plenum.",
-            "//assets.tripplite.com/2xl-image/srprc25-other11-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-other12-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc25-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-other12-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc25-other13-2xl.jpg": "Use the cable service entrance for power and data cables to create a drip loop, preventing water from running down them and entering the rack.",
-            "//assets.tripplite.com/2xl-image/srprc25-other14-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-other15-2xl.jpg": "other view thumbnail image | Modular Data Centers",
-            "//assets.tripplite.com/2xl-image/srprc25-other16-2xl.jpg": "other view thumbnail image | Modular Data Centers",
+            "//assets.tripplite.com/2xl-image/srprc25-other14-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-other15-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srprc25-other16-2xl.jpg": "other view thumbnail image",
             "//assets.tripplite.com/2xl-image/srprc25-other17-2xl.jpg": "The condenser mounts on a rooftop or condenser yard and requires professional installation and connection to the indoor cooling unit.",
             "//assets.tripplite.com/feature-focus/srp-r-c25-features.jpg": "SRP-R-C25 highlights",
             "": "SRP-R-C25 video"
@@ -7557,19 +7557,19 @@
             "Ships fully assembled for quick and easy deployment"
         ],
         "images": {
-            "//assets.tripplite.com/2xl-image/srqp42ub-front-2xl.jpg": "front view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other11-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other10-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other09-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other08-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other07-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other06-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other05-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other04-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other03-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other02-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-other01-2xl.jpg": "other view thumbnail image | Server Racks & Cabinets",
-            "//assets.tripplite.com/2xl-image/srqp42ub-back-2xl.jpg": "back view thumbnail image | Server Racks & Cabinets"
+            "//assets.tripplite.com/2xl-image/srqp42ub-front-2xl.jpg": "front view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other11-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other10-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other09-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other08-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other07-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other06-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other05-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other04-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other03-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other02-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-other01-2xl.jpg": "other view thumbnail image",
+            "//assets.tripplite.com/2xl-image/srqp42ub-back-2xl.jpg": "back view thumbnail image"
         }
     }
 }

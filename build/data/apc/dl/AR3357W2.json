@@ -1,0 +1,3110 @@
+{
+    "documentsCount": 13,
+    "dataSource": "BSL Rest",
+    "documents": [
+        {
+            "reference": "AR3357W2_REACH_DECLARATION",
+            "title": "AR3357W2 REACh Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_REACH_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1200D mm, with Sides, White",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_REACH_DECLARATION_US_en-US.pdf",
+            "documentId": 123443085585,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3357W2_REACH_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "AR3357W2_REACH_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_REACH_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "REACh Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SP_RacksPocketGuide_230V",
+            "title": "APC Racks eGuide - Global Edition",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jun/11/2024",
+            "shortDescription": "Schneider Electric delivers globally available and scalable APC rack solutions for almost any application, from large-scale data centers to edge...",
+            "description": "Schneider Electric delivers globally available and scalable APC rack solutions for almost any application, from large-scale data centers to edge spaces and even harsh industrial environments. With a large selection of cable management and other accessories, APC racks provide a reliable foundation for your organization’s entire IT infrastructure.",
+            "size": "55.2 MB",
+            "version": "2",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_enDocType=Catalog&p_File_Name=1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+            "documentId": 123909123472,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555852-Catalog",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+            "enDocType": "Catalog",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+                    "id": "124052189248",
+                    "size": "55.2 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SP_RacksPocketGuide_230V&p_enDocType=Catalog&p_File_Name=1014g-APC_RackSystems_e-guide2024_v060724_ac.pdf",
+                    "disableDownload": false,
+                    "checkSum": "6042d4d6e98c6ee7b352edbf9c1b8ccb",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "ENVPEP2306008_EN",
+            "title": "APC NetShelter SX Pro 42U Server Rack Enclosure 600mm x 1070mm w/ Sides Black",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP2306008_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/10/2024",
+            "shortDescription": null,
+            "description": null,
+            "size": "410.2 KB",
+            "version": "V2",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP2306008_EN&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP2306008_V2.pdf",
+            "documentId": 124050543566,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555857-Environmental Disclosure",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "ENVPEP2306008_V2.pdf",
+            "enDocType": "Environmental Disclosure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "ENVPEP2306008_V2.pdf",
+                    "id": "124050543573",
+                    "size": "410.2 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=ENVPEP2306008_EN&p_enDocType=Environmental+Disclosure&p_File_Name=ENVPEP2306008_V2.pdf",
+                    "disableDownload": false,
+                    "checkSum": "47ea4e893a0b923c01acb6971d6be8db",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "BUREAU VERITAS"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "Product Environmental Profile"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V2",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "AR3357W2_EN",
+            "title": "AR3357W2-APC NetShelter SX Server Rack Gen2 48U 750mm Wide x 1200mm Deep with Sides",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Apr/25/2024",
+            "shortDescription": "APC NetShelter SX Server Rack Gen2 48U 750mm Wide x 1200mm Deep with Sides",
+            "description": null,
+            "size": "3.1 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "ZIP",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 2,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_EN&p_enDocType=Technical+Drawing&p_Archive_Name=AR3357W2_EN.zip",
+            "documentId": 123904352486,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "305454116-Technical Drawing",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3357W2_EN.zip",
+            "enDocType": "Technical Drawing",
+            "documentFiles": [
+                {
+                    "extension": "dwg",
+                    "filename": "AR3357W2-APC NetShelter SX Server Rack Gen2 48U 750mm Wide x 1200mm Deep with Sides.dwg",
+                    "id": "123904352495",
+                    "size": "2.7 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_EN&p_enDocType=Technical+Drawing&p_File_Name=AR3357W2-APC+NetShelter+SX+Server+Rack+Gen2+48U+750mm+Wide+x+1200mm+Deep+with+Sides.dwg",
+                    "disableDownload": false,
+                    "checkSum": "ff3fcf717ba764e32eac54eb65666971",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "pdf",
+                    "filename": "AR3357W2-APC NetShelter SX Server Rack Gen2 48U 750mm Wide x 1200mm Deep with Sides.pdf",
+                    "id": "123904352496",
+                    "size": "448.4 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_EN&p_enDocType=Technical+Drawing&p_File_Name=AR3357W2-APC+NetShelter+SX+Server+Rack+Gen2+48U+750mm+Wide+x+1200mm+Deep+with+Sides.pdf",
+                    "disableDownload": false,
+                    "checkSum": "c44b54faca6e83c6c1752e6b2b7bc519",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Typical Drawing"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "TME24330",
+            "title": "NetShelter SX Racks, 2nd Generation, Installation and Customization Manual",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=TME24330&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Apr/22/2024",
+            "shortDescription": null,
+            "description": null,
+            "size": "2.5 MB",
+            "version": "A",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=TME24330&p_enDocType=User+guide&p_File_Name=NetShelter+SX+Racks+2nd+Generation+Installation+and+Customization_TME24330A.pdf",
+            "documentId": 123788893003,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555855-User guide",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NetShelter SX Racks 2nd Generation Installation and Customization_TME24330A.pdf",
+            "enDocType": "User guide",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "NetShelter SX Racks 2nd Generation Installation and Customization_TME24330A.pdf",
+                    "id": "123788893016",
+                    "size": "2.5 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=TME24330&p_enDocType=User+guide&p_File_Name=NetShelter+SX+Racks+2nd+Generation+Installation+and+Customization_TME24330A.pdf",
+                    "disableDownload": false,
+                    "checkSum": "f48d0919d3e32c70b18c81e816a827b8",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "A",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "AR3357W2-TI-Dimensions",
+            "title": "AR3357W2-TI-Dimensions",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Apr/15/2024",
+            "shortDescription": null,
+            "description": null,
+            "size": "705.3 KB",
+            "version": "1.0",
+            "locales": "",
+            "extension": "ZIP",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 9,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_Archive_Name=AR3357W2-TI-Dimensions.zip",
+            "documentId": 123904349980,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "30794509581-Technical illustration",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3357W2-TI-Dimensions.zip",
+            "enDocType": "Technical illustration",
+            "documentFiles": [
+                {
+                    "extension": "jpg",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2.jpg",
+                    "id": "124786341413",
+                    "size": "150.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2.jpg",
+                    "disableDownload": false,
+                    "checkSum": "fab238837b988ce6eb7e2b64164b3de4",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "png",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_288.png",
+                    "id": "124786341414",
+                    "size": "9.8 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_288.png",
+                    "disableDownload": false,
+                    "checkSum": "fdad085c160ab798ef3502e67b06649e",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "png",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_113.png",
+                    "id": "124786341415",
+                    "size": "3.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_113.png",
+                    "disableDownload": false,
+                    "checkSum": "10e4e7c13f27e3cb73b135d815524a42",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "gif",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_64.gif",
+                    "id": "124786341416",
+                    "size": "1.4 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_64.gif",
+                    "disableDownload": false,
+                    "checkSum": "e4360475202369c173d7cb4e8d26421c",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "png",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_200.png",
+                    "id": "124786341417",
+                    "size": "6.5 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_200.png",
+                    "disableDownload": false,
+                    "checkSum": "a92c8ce7258e686328e3127ed85dcbb8",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "jpg",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_369.jpg",
+                    "id": "124786341418",
+                    "size": "17 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_369.jpg",
+                    "disableDownload": false,
+                    "checkSum": "bbdaf7231bc427f9223621044e7052bc",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "png",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_4000.png",
+                    "id": "124786341419",
+                    "size": "341.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_4000.png",
+                    "disableDownload": false,
+                    "checkSum": "52edcd6b663f2ad03b754a7b2b420cdd",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "jpg",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_1500.jpg",
+                    "id": "124786341420",
+                    "size": "147.9 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_1500.jpg",
+                    "disableDownload": false,
+                    "checkSum": "31376f1e816d3bc2a32f29b3c8e2e406",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "jpg",
+                    "filename": "1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_520.jpg",
+                    "id": "124786341421",
+                    "size": "26.9 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2-TI-Dimensions&p_enDocType=Technical+illustration&p_File_Name=1014g-APC_SXGen2_eCommerce_Dimensions_AR3357W2_520.jpg",
+                    "disableDownload": false,
+                    "checkSum": "bf333d7e9318fcee5557d1338382da61",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Dimensions"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "NetShelterSX_PromoVideo",
+            "title": "APC NetShelter SX Overview Video",
+            "imageUrl": "https://img.youtube.com/vi/psAz9EXYMRA/0.jpg",
+            "documentDate": "Apr/10/2024",
+            "shortDescription": "APC™ NetShelter SX Enclosures are better than ever with higher load ratings, improved airflow features and better security to protect your IT gear...",
+            "description": "APC™ NetShelter SX Enclosures are better than ever with higher load ratings, improved airflow features and better security to protect your IT gear. Support all your applications, from networking to email to AI, with the IT rack you can feel certain about.",
+            "size": "136.3 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "mp4",
+            "bannerUrl": "https://youtu.be/psAz9EXYMRA",
+            "online": true,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NetShelterSX_PromoVideo&p_enDocType=Promotional+video&p_File_Name=NextGen_NetshelterSX_GMA_03-22-2024.mp4",
+            "documentId": 123935862543,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "12516104166-Promotional video",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                },
+                {
+                    "id": 120247909008,
+                    "label": "Videos",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NextGen_NetshelterSX_GMA_03-22-2024.mp4",
+            "enDocType": "Promotional video",
+            "documentFiles": [
+                {
+                    "extension": "mp4",
+                    "filename": "NextGen_NetshelterSX_GMA_03-22-2024.mp4",
+                    "id": "124682964828",
+                    "size": "136.3 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=NetShelterSX_PromoVideo&p_enDocType=Promotional+video&p_File_Name=NextGen_NetshelterSX_GMA_03-22-2024.mp4",
+                    "disableDownload": false,
+                    "checkSum": "9bda3ca525c8d9bac01626da23dcefb1",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Product close-up/USP"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SX_Brochure_EN",
+            "title": "APC NetShelter SX Enclosures Brochure",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SX_Brochure_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Mar/13/2024",
+            "shortDescription": "Bring your business the power of global scale, sustainable leadership and unparalleled quality with APC NetShelter SX Enclosures.",
+            "description": null,
+            "size": "12.5 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SX_Brochure_EN&p_enDocType=Brochure&p_File_Name=1014g-APC-NetShelterSXGen2_One-Pager_EduMarketing_FINAL.pdf",
+            "documentId": 123848395438,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555865-Brochure",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "1014g-APC-NetShelterSXGen2_One-Pager_EduMarketing_FINAL.pdf",
+            "enDocType": "Brochure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "1014g-APC-NetShelterSXGen2_One-Pager_EduMarketing_FINAL.pdf",
+                    "id": "124016806312",
+                    "size": "12.5 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SX_Brochure_EN&p_enDocType=Brochure&p_File_Name=1014g-APC-NetShelterSXGen2_One-Pager_EduMarketing_FINAL.pdf",
+                    "disableDownload": false,
+                    "checkSum": "4f4e5899dd0a8b4e2c84703dc2033071",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "AR3357W2_ROHS_CHINA_DECLARATION",
+            "title": "AR3357W2 China RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_CHINA_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1200D mm, with Sides, White",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_CHINA_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+            "documentId": 116186348384,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3357W2_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "AR3357W2_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_CHINA_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "China RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "China"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "20240101-E242296",
+            "title": "UL certificate for Netshelter SX GEN2",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=20240101-E242296&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/01/2024",
+            "shortDescription": "For Netshelter SX GEN2",
+            "description": null,
+            "size": "243.3 KB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=20240101-E242296&p_enDocType=Certificate&p_File_Name=E242296-20041123-CertificateofCompliance.pdf",
+            "documentId": 123935952955,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555861-Certificate",
+            "docTypeGroups": [
+                {
+                    "id": 120245951356,
+                    "label": "Conformity Assessments",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "E242296-20041123-CertificateofCompliance.pdf",
+            "enDocType": "Certificate",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "E242296-20041123-CertificateofCompliance.pdf",
+                    "id": "123935952979",
+                    "size": "243.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=20240101-E242296&p_enDocType=Certificate&p_File_Name=E242296-20041123-CertificateofCompliance.pdf",
+                    "disableDownload": false,
+                    "checkSum": "8a9a68c5b115f09adc3c8cce75a058c7",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "UL"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "UL"
+            ],
+            "certificationCountries": [
+                "Albania",
+                "Algeria",
+                "Argentina",
+                "Armenia",
+                "Australia",
+                "Austria",
+                "Azerbaijan",
+                "Bahamas",
+                "Bahrain",
+                "Bangladesh",
+                "Barbados",
+                "Belarus",
+                "Belgium",
+                "Benin",
+                "Bolivia",
+                "Bosnia-Herzegovina",
+                "Botswana",
+                "Brazil",
+                "Brunei",
+                "Bulgaria",
+                "Burkina Faso",
+                "Cambodia",
+                "Cameroon",
+                "Canada",
+                "Central African Republic",
+                "Chad",
+                "Chile",
+                "China",
+                "Colombia",
+                "Comoros",
+                "Congo",
+                "Costa Rica",
+                "Croatia",
+                "Cyprus",
+                "Czech Republic",
+                "Dem. Rep. Congo (Zaire)",
+                "Denmark",
+                "Dominican Republic",
+                "Ecuador",
+                "Egypt and North East Africa",
+                "El Salvador",
+                "Equatorial Guinea",
+                "Estonia",
+                "Fiji, Tonga",
+                "Finland",
+                "France",
+                "Gabon",
+                "Gambia",
+                "Georgia",
+                "Germany",
+                "Ghana",
+                "Greece",
+                "Guatemala",
+                "Guinea",
+                "Haiti",
+                "Honduras",
+                "Hong Kong, China",
+                "Hungary",
+                "India",
+                "Indonesia",
+                "International",
+                "Iraq",
+                "Ireland",
+                "Israel",
+                "Italy",
+                "Ivory Coast",
+                "Jamaica",
+                "Japan",
+                "Jordan",
+                "Kazakhstan",
+                "Kenya",
+                "Korea, South",
+                "Kosovo",
+                "Kuwait",
+                "Kyrgyzstan",
+                "Laos",
+                "Latvia",
+                "Lebanon",
+                "Liberia",
+                "Libya",
+                "Lithuania",
+                "Madagascar",
+                "Malawi",
+                "Malaysia",
+                "Maldives",
+                "Mali",
+                "Malta",
+                "Mauritania",
+                "Mauritius",
+                "Mexico",
+                "Moldavia",
+                "Mongolia",
+                "Montenegro",
+                "Morocco",
+                "Mozambique",
+                "Myanmar",
+                "Namibia",
+                "Netherlands",
+                "New Zealand",
+                "Nicaragua",
+                "Niger",
+                "Nigeria",
+                "North Macedonia",
+                "Norway",
+                "Oman",
+                "Pakistan",
+                "Panama",
+                "Papua New Guinea",
+                "Paraguay",
+                "Peru",
+                "Philippines",
+                "Poland",
+                "Portugal",
+                "Qatar",
+                "Romania",
+                "Russia",
+                "Saudi Arabia",
+                "Senegal",
+                "Serbia",
+                "Seychelles",
+                "Sierra Leone",
+                "Singapore",
+                "Slovakia",
+                "Slovenia",
+                "South Africa",
+                "Spain",
+                "Sri Lanka",
+                "St. Lucia",
+                "Swaziland",
+                "Sweden",
+                "Switzerland",
+                "Taiwan, China",
+                "Tanzania",
+                "Thailand",
+                "Togo",
+                "Trinidad And Tobago",
+                "Tunisia",
+                "Turkey",
+                "USA",
+                "Uganda",
+                "Ukraine",
+                "United Arab Emirates",
+                "United Kingdom",
+                "Uruguay",
+                "Uzbekistan",
+                "Venezuela",
+                "Vietnam",
+                "Yemen",
+                "Zambia",
+                "Zimbabwe"
+            ],
+            "perimeters": [
+                "Functional Safety"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "TME19836",
+            "title": "NetShelter SX Cabinet, 2nd Generation Unpacking Sheet",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=TME19836&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/08/2023",
+            "shortDescription": null,
+            "description": null,
+            "size": "2.4 MB",
+            "version": "0",
+            "locales": "Chinese, English, French, German, Italian, Japanese, Polish, Portuguese, Russian, Spanish",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=TME19836&p_enDocType=Instruction+sheet&p_File_Name=NetShelter+SX+Cabinet+2nd+Generation+Unpacking+Sheet_TME19836_ML.pdf",
+            "documentId": 123877203987,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555854-Instruction Sheet",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NetShelter SX Cabinet 2nd Generation Unpacking Sheet_TME19836_ML.pdf",
+            "enDocType": "Instruction sheet",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "NetShelter SX Cabinet 2nd Generation Unpacking Sheet_TME19836_ML.pdf",
+                    "id": "123877204031",
+                    "size": "2.4 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=TME19836&p_enDocType=Instruction+sheet&p_File_Name=NetShelter+SX+Cabinet+2nd+Generation+Unpacking+Sheet_TME19836_ML.pdf",
+                    "disableDownload": false,
+                    "checkSum": "ec7dc84c810256dedcad26b89d0da87f",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "0",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "AR3357W2_ROHS_DECLARATION",
+            "title": "AR3357W2 EU RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1200D mm, with Sides, White",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_ROHS_DECLARATION_US_en-US.pdf",
+            "documentId": 103844588258,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "AR3357W2_ROHS_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "AR3357W2_ROHS_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=AR3357W2_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=AR3357W2_ROHS_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "EU RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "NetShelter-SX_Rack_Gen2",
+            "title": "NetShelter-SX_Rack_Gen2_Schneider_Electric_BIM Model",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NetShelter-SX_Rack_Gen2&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/17/2014",
+            "shortDescription": "SX_Rack_Gen2_Schneider_Electric_BIM Model",
+            "description": null,
+            "size": "844 KB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "rfa",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NetShelter-SX_Rack_Gen2&p_enDocType=BIM+Model&p_File_Name=NetShelter-SX_Rack_Gen2_Schneider_Electric_BIM+Model.rfa",
+            "documentId": 123909108668,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "39355421577-BIM Model",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NetShelter-SX_Rack_Gen2_Schneider_Electric_BIM Model.rfa",
+            "enDocType": "BIM Model",
+            "documentFiles": [
+                {
+                    "extension": "rfa",
+                    "filename": "NetShelter-SX_Rack_Gen2_Schneider_Electric_BIM Model.rfa",
+                    "id": "123909108677",
+                    "size": "844 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=NetShelter-SX_Rack_Gen2&p_enDocType=BIM+Model&p_File_Name=NetShelter-SX_Rack_Gen2_Schneider_Electric_BIM+Model.rfa",
+                    "disableDownload": false,
+                    "checkSum": "659f927d660645b5d1c5cbc8d5635561",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        }
+    ],
+    "documentFilters": {
+        "documentTypeGroups": [
+            {
+                "id": 120245927022,
+                "label": "CAD, Drawings, & Curves",
+                "numberOfDocs": 3,
+                "baseName": "CAD, Drawings, & Curves",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245911031,
+                "label": "Catalogs & Brochures",
+                "numberOfDocs": 3,
+                "baseName": "Catalogs & Brochures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245951356,
+                "label": "Conformity Assessments",
+                "numberOfDocs": 1,
+                "baseName": "Conformity Assessments",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246088490,
+                "label": "Installation & User Guides",
+                "numberOfDocs": 2,
+                "baseName": "Installation & User Guides",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246343550,
+                "label": "Sustainability",
+                "numberOfDocs": 4,
+                "baseName": "Sustainability",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120247909008,
+                "label": "Videos",
+                "numberOfDocs": 1,
+                "baseName": "Videos",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "documentTypes": [
+            {
+                "id": 39355421577,
+                "label": "BIM Model",
+                "numberOfDocs": 1,
+                "baseName": "BIM Model",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555865,
+                "label": "Brochure",
+                "numberOfDocs": 1,
+                "baseName": "Brochure",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555852,
+                "label": "Catalog",
+                "numberOfDocs": 1,
+                "baseName": "Catalogue",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555861,
+                "label": "Certificate",
+                "numberOfDocs": 1,
+                "baseName": "Certificate",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97899892876,
+                "label": "Declaration of conformity",
+                "numberOfDocs": 3,
+                "baseName": "Declaration of conformity",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555857,
+                "label": "Environmental Disclosure",
+                "numberOfDocs": 1,
+                "baseName": "Environmental disclosure",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555854,
+                "label": "Instruction Sheet",
+                "numberOfDocs": 1,
+                "baseName": "Instruction sheet",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 12516104166,
+                "label": "Promotional video",
+                "numberOfDocs": 1,
+                "baseName": "Promotional video",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 305454116,
+                "label": "Technical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Technical Drawing",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 30794509581,
+                "label": "Technical illustration",
+                "numberOfDocs": 1,
+                "baseName": "Technical illustration",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555855,
+                "label": "User guide",
+                "numberOfDocs": 1,
+                "baseName": "User guide",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "languages": [
+            {
+                "id": 0,
+                "label": "All languages",
+                "numberOfDocs": null,
+                "baseName": "All",
+                "name": null,
+                "checked": true,
+                "static": false
+            },
+            {
+                "id": 4604579,
+                "label": "English",
+                "numberOfDocs": 14,
+                "baseName": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "categories": [
+            {
+                "id": 10572696318,
+                "label": "Power Distribution",
+                "numberOfDocs": 1,
+                "baseName": "Power Distribution",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696328,
+                "label": "Racks and Accessories",
+                "numberOfDocs": 10,
+                "baseName": "Racks and Accessories",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "subCategories": [
+            {
+                "id": 17817531900,
+                "label": "Data Center Containment",
+                "numberOfDocs": 1,
+                "baseName": "Data Center Containment",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696332,
+                "label": "LCD Monitors and KVM Switches",
+                "numberOfDocs": 1,
+                "baseName": "LCD Monitors and KVM Switches",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696334,
+                "label": "Rack and Enclosure Accessories",
+                "numberOfDocs": 2,
+                "baseName": "Rack and Enclosure Accessories",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696330,
+                "label": "Racks and Enclosures",
+                "numberOfDocs": 10,
+                "baseName": "Racks and Enclosures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696326,
+                "label": "Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": "Transfer Switches",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "ranges": [
+            {
+                "id": 61815,
+                "label": "NetShelter Airflow Management",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297115,
+                "label": "NetShelter Aisle Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61816,
+                "label": "NetShelter Cable Management",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 86356023,
+                "label": "NetShelter Configurable Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61820,
+                "label": "NetShelter CX Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61819,
+                "label": "NetShelter Enclosure Components",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61812,
+                "label": "NetShelter Ethernet Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61813,
+                "label": "NetShelter KVM Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61823,
+                "label": "NetShelter Open Frame Racks",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297116,
+                "label": "NetShelter Pod Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 8297117,
+                "label": "NetShelter Rack Containment",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61814,
+                "label": "NetShelter Rack LCD Consoles",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 48786702,
+                "label": "NetShelter Rugged Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61818,
+                "label": "NetShelter Shelving & Mounting Accessories",
+                "numberOfDocs": 2,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 203414049,
+                "label": "NetShelter Soundproof Racks",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61824,
+                "label": "NetShelter Specialty Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62589,
+                "label": "NetShelter SV Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61821,
+                "label": "NetShelter SX Enclosures",
+                "numberOfDocs": 10,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61811,
+                "label": "NetShelter Wall (Mounted) Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 65999,
+                "label": "NetShelter Wall-mount Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61810,
+                "label": "Rack-mount Transfer Switches",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "productBrands": null,
+        "applications": null,
+        "productReferenceGroup": null,
+        "contentTypes": null,
+        "operatingSystems": null,
+        "contents": [
+            {
+                "id": 1556489,
+                "label": "Dimensions",
+                "numberOfDocs": 1,
+                "baseName": "Dimensions",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 69601645736,
+                "label": "Product close-up/USP",
+                "numberOfDocs": 1,
+                "baseName": "Product close-up/USP",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 100438137,
+                "label": "Typical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Typical Drawing",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "perimeters": [
+            {
+                "id": 97894146725,
+                "label": "Functional Safety",
+                "numberOfDocs": 1,
+                "baseName": "Functional Safety",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894146728,
+                "label": "Generic",
+                "numberOfDocs": 4,
+                "baseName": "Generic",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "conformityInformation": [
+            {
+                "id": 97894160254,
+                "label": "China RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "China RoHS Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894161151,
+                "label": "EU RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "EU RoHS Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145424,
+                "label": "Product Environmental Profile",
+                "numberOfDocs": 1,
+                "baseName": "Product Environmental Profile",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894159858,
+                "label": "REACh Declaration",
+                "numberOfDocs": 1,
+                "baseName": "REACh Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145498,
+                "label": "UL",
+                "numberOfDocs": 1,
+                "baseName": "UL",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "organizations": [
+            {
+                "id": 97894147306,
+                "label": "BUREAU VERITAS",
+                "numberOfDocs": 1,
+                "baseName": "BUREAU VERITAS",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1556049,
+                "label": "SCHNEIDER ELECTRIC",
+                "numberOfDocs": 3,
+                "baseName": "Schneider Electric",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555993,
+                "label": "UL",
+                "numberOfDocs": 1,
+                "baseName": "UL",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "certificationCountries": [
+            {
+                "id": 97894145514,
+                "label": "Albania",
+                "numberOfDocs": 1,
+                "baseName": "Albania",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145517,
+                "label": "Algeria",
+                "numberOfDocs": 1,
+                "baseName": "Algeria",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145523,
+                "label": "Argentina",
+                "numberOfDocs": 1,
+                "baseName": "Argentina",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145520,
+                "label": "Armenia",
+                "numberOfDocs": 1,
+                "baseName": "Armenia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145526,
+                "label": "Australia",
+                "numberOfDocs": 1,
+                "baseName": "Australia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145530,
+                "label": "Austria",
+                "numberOfDocs": 1,
+                "baseName": "Austria",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145532,
+                "label": "Azerbaijan",
+                "numberOfDocs": 1,
+                "baseName": "Azerbaijan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145535,
+                "label": "Bahamas",
+                "numberOfDocs": 1,
+                "baseName": "Bahamas",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145538,
+                "label": "Bahrain",
+                "numberOfDocs": 1,
+                "baseName": "Bahrain",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145541,
+                "label": "Bangladesh",
+                "numberOfDocs": 1,
+                "baseName": "Bangladesh",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145544,
+                "label": "Barbados",
+                "numberOfDocs": 1,
+                "baseName": "Barbados",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145547,
+                "label": "Belarus",
+                "numberOfDocs": 1,
+                "baseName": "Belarus",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145550,
+                "label": "Belgium",
+                "numberOfDocs": 1,
+                "baseName": "Belgium",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145553,
+                "label": "Benin",
+                "numberOfDocs": 1,
+                "baseName": "Benin",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145556,
+                "label": "Bolivia",
+                "numberOfDocs": 1,
+                "baseName": "Bolivia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145559,
+                "label": "Bosnia-Herzegovina",
+                "numberOfDocs": 1,
+                "baseName": "Bosnia-Herzegovina",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145562,
+                "label": "Botswana",
+                "numberOfDocs": 1,
+                "baseName": "Botswana",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145565,
+                "label": "Brazil",
+                "numberOfDocs": 1,
+                "baseName": "Brazil",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145568,
+                "label": "Brunei",
+                "numberOfDocs": 1,
+                "baseName": "Brunei",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145571,
+                "label": "Bulgaria",
+                "numberOfDocs": 1,
+                "baseName": "Bulgaria",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145574,
+                "label": "Burkina Faso",
+                "numberOfDocs": 1,
+                "baseName": "Burkina Faso",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145577,
+                "label": "Cambodia",
+                "numberOfDocs": 1,
+                "baseName": "Cambodia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145580,
+                "label": "Cameroon",
+                "numberOfDocs": 1,
+                "baseName": "Cameroon",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145583,
+                "label": "Canada",
+                "numberOfDocs": 1,
+                "baseName": "Canada",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145586,
+                "label": "Central African Republic",
+                "numberOfDocs": 1,
+                "baseName": "Central African Republic",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145589,
+                "label": "Chad",
+                "numberOfDocs": 1,
+                "baseName": "Chad",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145592,
+                "label": "Chile",
+                "numberOfDocs": 1,
+                "baseName": "Chile",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145595,
+                "label": "China",
+                "numberOfDocs": 2,
+                "baseName": "China",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145597,
+                "label": "Colombia",
+                "numberOfDocs": 1,
+                "baseName": "Colombia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145601,
+                "label": "Comoros",
+                "numberOfDocs": 1,
+                "baseName": "Comoros",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145604,
+                "label": "Congo",
+                "numberOfDocs": 1,
+                "baseName": "Congo",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145607,
+                "label": "Costa Rica",
+                "numberOfDocs": 1,
+                "baseName": "Costa Rica",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145609,
+                "label": "Croatia",
+                "numberOfDocs": 1,
+                "baseName": "Croatia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145612,
+                "label": "Cyprus",
+                "numberOfDocs": 1,
+                "baseName": "Cyprus",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145616,
+                "label": "Czech Republic",
+                "numberOfDocs": 1,
+                "baseName": "Czech Republic",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145619,
+                "label": "Dem. Rep. Congo (Zaire)",
+                "numberOfDocs": 1,
+                "baseName": "Dem. Rep. Congo (Zaire)",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145622,
+                "label": "Denmark",
+                "numberOfDocs": 1,
+                "baseName": "Denmark",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145624,
+                "label": "Dominican Republic",
+                "numberOfDocs": 1,
+                "baseName": "Dominican Republic",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145627,
+                "label": "Ecuador",
+                "numberOfDocs": 1,
+                "baseName": "Ecuador",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145631,
+                "label": "Egypt and North East Africa",
+                "numberOfDocs": 1,
+                "baseName": "Egypt and North East Africa",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145634,
+                "label": "El Salvador",
+                "numberOfDocs": 1,
+                "baseName": "El Salvador",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145637,
+                "label": "Equatorial Guinea",
+                "numberOfDocs": 1,
+                "baseName": "Equatorial Guinea",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145640,
+                "label": "Estonia",
+                "numberOfDocs": 1,
+                "baseName": "Estonia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145642,
+                "label": "Fiji, Tonga",
+                "numberOfDocs": 1,
+                "baseName": "Fiji, Tonga",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145646,
+                "label": "Finland",
+                "numberOfDocs": 1,
+                "baseName": "Finland",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145649,
+                "label": "France",
+                "numberOfDocs": 1,
+                "baseName": "France",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145652,
+                "label": "Gabon",
+                "numberOfDocs": 1,
+                "baseName": "Gabon",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145655,
+                "label": "Gambia",
+                "numberOfDocs": 1,
+                "baseName": "Gambia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145658,
+                "label": "Georgia",
+                "numberOfDocs": 1,
+                "baseName": "Georgia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145661,
+                "label": "Germany",
+                "numberOfDocs": 1,
+                "baseName": "Germany",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145664,
+                "label": "Ghana",
+                "numberOfDocs": 1,
+                "baseName": "Ghana",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145667,
+                "label": "Greece",
+                "numberOfDocs": 1,
+                "baseName": "Greece",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145670,
+                "label": "Guatemala",
+                "numberOfDocs": 1,
+                "baseName": "Guatemala",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145673,
+                "label": "Guinea",
+                "numberOfDocs": 1,
+                "baseName": "Guinea",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145676,
+                "label": "Haiti",
+                "numberOfDocs": 1,
+                "baseName": "Haiti",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145679,
+                "label": "Honduras",
+                "numberOfDocs": 1,
+                "baseName": "Honduras",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145682,
+                "label": "Hong Kong, China",
+                "numberOfDocs": 1,
+                "baseName": "Hong Kong, China",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145685,
+                "label": "Hungary",
+                "numberOfDocs": 1,
+                "baseName": "Hungary",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145688,
+                "label": "India",
+                "numberOfDocs": 1,
+                "baseName": "India",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145691,
+                "label": "Indonesia",
+                "numberOfDocs": 1,
+                "baseName": "Indonesia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145693,
+                "label": "International",
+                "numberOfDocs": 4,
+                "baseName": "International",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145697,
+                "label": "Iraq",
+                "numberOfDocs": 1,
+                "baseName": "Iraq",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145700,
+                "label": "Ireland",
+                "numberOfDocs": 1,
+                "baseName": "Ireland",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145703,
+                "label": "Israel",
+                "numberOfDocs": 1,
+                "baseName": "Israel",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145706,
+                "label": "Italy",
+                "numberOfDocs": 1,
+                "baseName": "Italy",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145709,
+                "label": "Ivory Coast",
+                "numberOfDocs": 1,
+                "baseName": "Ivory Coast",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145712,
+                "label": "Jamaica",
+                "numberOfDocs": 1,
+                "baseName": "Jamaica",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145714,
+                "label": "Japan",
+                "numberOfDocs": 1,
+                "baseName": "Japan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145718,
+                "label": "Jordan",
+                "numberOfDocs": 1,
+                "baseName": "Jordan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145722,
+                "label": "Kazakhstan",
+                "numberOfDocs": 1,
+                "baseName": "Kazakhstan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145725,
+                "label": "Kenya",
+                "numberOfDocs": 1,
+                "baseName": "Kenya",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145728,
+                "label": "Korea, South",
+                "numberOfDocs": 1,
+                "baseName": "Korea, South",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145731,
+                "label": "Kosovo",
+                "numberOfDocs": 1,
+                "baseName": "Kosovo",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145734,
+                "label": "Kuwait",
+                "numberOfDocs": 1,
+                "baseName": "Kuwait",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145736,
+                "label": "Kyrgyzstan",
+                "numberOfDocs": 1,
+                "baseName": "Kyrgyzstan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145739,
+                "label": "Laos",
+                "numberOfDocs": 1,
+                "baseName": "Laos",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145742,
+                "label": "Latvia",
+                "numberOfDocs": 1,
+                "baseName": "Latvia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145745,
+                "label": "Lebanon",
+                "numberOfDocs": 1,
+                "baseName": "Lebanon",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145748,
+                "label": "Liberia",
+                "numberOfDocs": 1,
+                "baseName": "Liberia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145751,
+                "label": "Libya",
+                "numberOfDocs": 1,
+                "baseName": "Libya",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145755,
+                "label": "Lithuania",
+                "numberOfDocs": 1,
+                "baseName": "Lithuania",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145757,
+                "label": "Madagascar",
+                "numberOfDocs": 1,
+                "baseName": "Madagascar",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145761,
+                "label": "Malawi",
+                "numberOfDocs": 1,
+                "baseName": "Malawi",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145764,
+                "label": "Malaysia",
+                "numberOfDocs": 1,
+                "baseName": "Malaysia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145767,
+                "label": "Maldives",
+                "numberOfDocs": 1,
+                "baseName": "Maldives",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145771,
+                "label": "Mali",
+                "numberOfDocs": 1,
+                "baseName": "Mali",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145774,
+                "label": "Malta",
+                "numberOfDocs": 1,
+                "baseName": "Malta",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145778,
+                "label": "Mauritania",
+                "numberOfDocs": 1,
+                "baseName": "Mauritania",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145781,
+                "label": "Mauritius",
+                "numberOfDocs": 1,
+                "baseName": "Mauritius",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145784,
+                "label": "Mexico",
+                "numberOfDocs": 1,
+                "baseName": "Mexico",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145788,
+                "label": "Moldavia",
+                "numberOfDocs": 1,
+                "baseName": "Moldavia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145791,
+                "label": "Mongolia",
+                "numberOfDocs": 1,
+                "baseName": "Mongolia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145793,
+                "label": "Montenegro",
+                "numberOfDocs": 1,
+                "baseName": "Montenegro",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145796,
+                "label": "Morocco",
+                "numberOfDocs": 1,
+                "baseName": "Morocco",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145800,
+                "label": "Mozambique",
+                "numberOfDocs": 1,
+                "baseName": "Mozambique",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145803,
+                "label": "Myanmar",
+                "numberOfDocs": 1,
+                "baseName": "Myanmar",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145806,
+                "label": "Namibia",
+                "numberOfDocs": 1,
+                "baseName": "Namibia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145807,
+                "label": "Netherlands",
+                "numberOfDocs": 1,
+                "baseName": "Netherlands",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145811,
+                "label": "New Zealand",
+                "numberOfDocs": 1,
+                "baseName": "New Zealand",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145814,
+                "label": "Nicaragua",
+                "numberOfDocs": 1,
+                "baseName": "Nicaragua",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145817,
+                "label": "Niger",
+                "numberOfDocs": 1,
+                "baseName": "Niger",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145820,
+                "label": "Nigeria",
+                "numberOfDocs": 1,
+                "baseName": "Nigeria",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145823,
+                "label": "North Macedonia",
+                "numberOfDocs": 1,
+                "baseName": "North Macedonia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145826,
+                "label": "Norway",
+                "numberOfDocs": 1,
+                "baseName": "Norway",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145829,
+                "label": "Oman",
+                "numberOfDocs": 1,
+                "baseName": "Oman",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145832,
+                "label": "Pakistan",
+                "numberOfDocs": 1,
+                "baseName": "Pakistan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145836,
+                "label": "Panama",
+                "numberOfDocs": 1,
+                "baseName": "Panama",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145839,
+                "label": "Papua New Guinea",
+                "numberOfDocs": 1,
+                "baseName": "Papua New Guinea",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145842,
+                "label": "Paraguay",
+                "numberOfDocs": 1,
+                "baseName": "Paraguay",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145844,
+                "label": "Peru",
+                "numberOfDocs": 1,
+                "baseName": "Peru",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145847,
+                "label": "Philippines",
+                "numberOfDocs": 1,
+                "baseName": "Philippines",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145850,
+                "label": "Poland",
+                "numberOfDocs": 1,
+                "baseName": "Poland",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145853,
+                "label": "Portugal",
+                "numberOfDocs": 1,
+                "baseName": "Portugal",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145856,
+                "label": "Qatar",
+                "numberOfDocs": 1,
+                "baseName": "Qatar",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145859,
+                "label": "Romania",
+                "numberOfDocs": 1,
+                "baseName": "Romania",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145862,
+                "label": "Russia",
+                "numberOfDocs": 1,
+                "baseName": "Russia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145866,
+                "label": "Saudi Arabia",
+                "numberOfDocs": 1,
+                "baseName": "Saudi Arabia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145869,
+                "label": "Senegal",
+                "numberOfDocs": 1,
+                "baseName": "Senegal",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145871,
+                "label": "Serbia",
+                "numberOfDocs": 1,
+                "baseName": "Serbia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145875,
+                "label": "Seychelles",
+                "numberOfDocs": 1,
+                "baseName": "Seychelles",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145877,
+                "label": "Sierra Leone",
+                "numberOfDocs": 1,
+                "baseName": "Sierra Leone",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145881,
+                "label": "Singapore",
+                "numberOfDocs": 1,
+                "baseName": "Singapore",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145883,
+                "label": "Slovakia",
+                "numberOfDocs": 1,
+                "baseName": "Slovakia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145886,
+                "label": "Slovenia",
+                "numberOfDocs": 1,
+                "baseName": "Slovenia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145889,
+                "label": "South Africa",
+                "numberOfDocs": 1,
+                "baseName": "South Africa",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145892,
+                "label": "Spain",
+                "numberOfDocs": 1,
+                "baseName": "Spain",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145895,
+                "label": "Sri Lanka",
+                "numberOfDocs": 1,
+                "baseName": "Sri Lanka",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145899,
+                "label": "St. Lucia",
+                "numberOfDocs": 1,
+                "baseName": "St. Lucia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145902,
+                "label": "Swaziland",
+                "numberOfDocs": 1,
+                "baseName": "Swaziland",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145906,
+                "label": "Sweden",
+                "numberOfDocs": 1,
+                "baseName": "Sweden",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145911,
+                "label": "Switzerland",
+                "numberOfDocs": 1,
+                "baseName": "Switzerland",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145918,
+                "label": "Taiwan, China",
+                "numberOfDocs": 1,
+                "baseName": "Taiwan, China",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145921,
+                "label": "Tanzania",
+                "numberOfDocs": 1,
+                "baseName": "Tanzania",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145924,
+                "label": "Thailand",
+                "numberOfDocs": 1,
+                "baseName": "Thailand",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145928,
+                "label": "Togo",
+                "numberOfDocs": 1,
+                "baseName": "Togo",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145932,
+                "label": "Trinidad And Tobago",
+                "numberOfDocs": 1,
+                "baseName": "Trinidad And Tobago",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145935,
+                "label": "Tunisia",
+                "numberOfDocs": 1,
+                "baseName": "Tunisia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145939,
+                "label": "Turkey",
+                "numberOfDocs": 1,
+                "baseName": "Turkey",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145942,
+                "label": "Uganda",
+                "numberOfDocs": 1,
+                "baseName": "Uganda",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145945,
+                "label": "Ukraine",
+                "numberOfDocs": 1,
+                "baseName": "Ukraine",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145949,
+                "label": "United Arab Emirates",
+                "numberOfDocs": 1,
+                "baseName": "United Arab Emirates",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145959,
+                "label": "United Kingdom",
+                "numberOfDocs": 1,
+                "baseName": "United Kingdom",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145962,
+                "label": "Uruguay",
+                "numberOfDocs": 1,
+                "baseName": "Uruguay",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145965,
+                "label": "USA",
+                "numberOfDocs": 1,
+                "baseName": "USA",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145969,
+                "label": "Uzbekistan",
+                "numberOfDocs": 1,
+                "baseName": "Uzbekistan",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145975,
+                "label": "Venezuela",
+                "numberOfDocs": 1,
+                "baseName": "Venezuela",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894146195,
+                "label": "Vietnam",
+                "numberOfDocs": 1,
+                "baseName": "Vietnam",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894146204,
+                "label": "Yemen",
+                "numberOfDocs": 1,
+                "baseName": "Yemen",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894146207,
+                "label": "Zambia",
+                "numberOfDocs": 1,
+                "baseName": "Zambia",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894146219,
+                "label": "Zimbabwe",
+                "numberOfDocs": 1,
+                "baseName": "Zimbabwe",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "standards": null,
+        "domains": null,
+        "audienceFacets": null,
+        "businessTypes": null
+    },
+    "sortByOptions": {
+        "Document_Date_New": "Sort by newest",
+        "Popularity": "Sort by most popular"
+    },
+    "itemsPerPageOptions": "10, 20, 30, 50, 100",
+    "criteria": {
+        "sortByField": "Document_Date_New",
+        "isIdolConsumer": "false",
+        "pageNumber": "1",
+        "itemsPerPage": "20"
+    }
+}

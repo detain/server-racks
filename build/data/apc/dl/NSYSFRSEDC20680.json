@@ -1,0 +1,611 @@
+{
+    "documentsCount": 5,
+    "dataSource": "BSL Rest",
+    "documents": [
+        {
+            "reference": "NSYSFRSEDC20680_EN",
+            "title": "NSYSFRSEDC20680-NetShelter RX 42U Enclosure 600mm x 800mm",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Nov/07/2022",
+            "shortDescription": "NetShelter RX 42U Enclosure 600mm x 800mm",
+            "description": null,
+            "size": "2.1 MB",
+            "version": "1.1",
+            "locales": "English",
+            "extension": "ZIP",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 2,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_EN&p_enDocType=Technical+Drawing&p_Archive_Name=NSYSFRSEDC20680_EN.zip",
+            "documentId": 123882295242,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "305454116-Technical Drawing",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NSYSFRSEDC20680_EN.zip",
+            "enDocType": "Technical Drawing",
+            "documentFiles": [
+                {
+                    "extension": "dwg",
+                    "filename": "NSYSFRSEDC20680-NetShelter RX 42U Enclosure 600mm x 800mm.dwg",
+                    "id": "123882295251",
+                    "size": "1.8 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_EN&p_enDocType=Technical+Drawing&p_File_Name=NSYSFRSEDC20680-NetShelter+RX+42U+Enclosure+600mm+x+800mm.dwg",
+                    "disableDownload": false,
+                    "checkSum": "bc77c521bd586a3d674eb2c1247f216b",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "pdf",
+                    "filename": "NSYSFRSEDC20680-NetShelter RX 42U Enclosure 600mm x 800mm.pdf",
+                    "id": "123882295252",
+                    "size": "249.6 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_EN&p_enDocType=Technical+Drawing&p_File_Name=NSYSFRSEDC20680-NetShelter+RX+42U+Enclosure+600mm+x+800mm.pdf",
+                    "disableDownload": false,
+                    "checkSum": "c8d0b1fc7712803563574e9c3e965200",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Typical Drawing"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "990-91426_EN",
+            "title": "EcoStruxure Micro Data Center R-series Unpacking Sheet",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=990-91426_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jul/05/2022",
+            "shortDescription": null,
+            "description": null,
+            "size": "2.3 MB",
+            "version": "C",
+            "locales": "English, French, German, Italian, Polish, Spanish, Turkish",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=990-91426_EN&p_enDocType=User+guide&p_File_Name=990-91426C_A3.pdf",
+            "documentId": 123770236358,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555855-User guide",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "990-91426C_A3.pdf",
+            "enDocType": "User guide",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "990-91426C_A3.pdf",
+                    "id": "123770236400",
+                    "size": "2.3 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=990-91426_EN&p_enDocType=User+guide&p_File_Name=990-91426C_A3.pdf",
+                    "disableDownload": false,
+                    "checkSum": "bc3df2e54305fef94a25b20f8f74e05c",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "C",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "990-91427_EN",
+            "title": "EcoStruxure Micro Data Center R-series Installation Sheet",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=990-91427_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Dec/17/2021",
+            "shortDescription": null,
+            "description": null,
+            "size": "1 MB",
+            "version": "D",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=990-91427_EN&p_enDocType=User+guide&p_File_Name=990-91427D_EN.pdf",
+            "documentId": 123770236433,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555855-User guide",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "990-91427D_EN.pdf",
+            "enDocType": "User guide",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "990-91427D_EN.pdf",
+                    "id": "123770236457",
+                    "size": "1 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=990-91427_EN&p_enDocType=User+guide&p_File_Name=990-91427D_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "8d0beabde22456527616082cdbafe9ad",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "D",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "NSYSFRSEDC20680_ROHS_DECLARATION",
+            "title": "NSYSFRSEDC20680 EU RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_ROHS_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "Netshelter RX 42U Enclosure 600mm x 800mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=NSYSFRSEDC20680_ROHS_DECLARATION_US_en-US.pdf",
+            "documentId": 68930480137,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "NSYSFRSEDC20680_ROHS_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "NSYSFRSEDC20680_ROHS_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=NSYSFRSEDC20680_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=NSYSFRSEDC20680_ROHS_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "EU RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_MDC_Specs_R-Series_EN",
+            "title": "EcoStruxure Micro Data Center R-Series Specifications",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_R-Series_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jul/14/2020",
+            "shortDescription": "Made for harsh environments, such as warehouses, manufacturing floors, and outdoors, the R-series includes sealed enclosures, some with NEMA and IP...",
+            "description": "Made for harsh environments, such as warehouses, manufacturing floors, and outdoors, the R-series includes sealed enclosures, some with NEMA and IP ratings, and additional features, like active cooling, enhanced filtration and security.",
+            "size": "2.9 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_R-Series_EN&p_enDocType=Catalog&p_File_Name=SPD_MDC_Specs_R-Series_EN.pdf",
+            "documentId": 124001784058,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555852-Catalog",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "SPD_MDC_Specs_R-Series_EN.pdf",
+            "enDocType": "Catalog",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "SPD_MDC_Specs_R-Series_EN.pdf",
+                    "id": "124099861453",
+                    "size": "2.9 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_R-Series_EN&p_enDocType=Catalog&p_File_Name=SPD_MDC_Specs_R-Series_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "b7d2db33299a64f59c89840a9815be4f",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        }
+    ],
+    "documentFilters": {
+        "documentTypeGroups": [
+            {
+                "id": 120245927022,
+                "label": "CAD, Drawings, & Curves",
+                "numberOfDocs": 1,
+                "baseName": "CAD, Drawings, & Curves",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245911031,
+                "label": "Catalogs & Brochures",
+                "numberOfDocs": 1,
+                "baseName": "Catalogs & Brochures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246088490,
+                "label": "Installation & User Guides",
+                "numberOfDocs": 2,
+                "baseName": "Installation & User Guides",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246343550,
+                "label": "Sustainability",
+                "numberOfDocs": 1,
+                "baseName": "Sustainability",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "documentTypes": [
+            {
+                "id": 1555852,
+                "label": "Catalog",
+                "numberOfDocs": 1,
+                "baseName": "Catalogue",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97899892876,
+                "label": "Declaration of conformity",
+                "numberOfDocs": 1,
+                "baseName": "Declaration of conformity",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 305454116,
+                "label": "Technical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Technical Drawing",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555855,
+                "label": "User guide",
+                "numberOfDocs": 2,
+                "baseName": "User guide",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "languages": [
+            {
+                "id": 0,
+                "label": "All languages",
+                "numberOfDocs": null,
+                "baseName": "All",
+                "name": null,
+                "checked": true,
+                "static": false
+            },
+            {
+                "id": 4604579,
+                "label": "English",
+                "numberOfDocs": 5,
+                "baseName": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "categories": [
+            {
+                "id": 10572696328,
+                "label": "Racks and Accessories",
+                "numberOfDocs": 3,
+                "baseName": "Racks and Accessories",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "subCategories": [
+            {
+                "id": 10572696330,
+                "label": "Racks and Enclosures",
+                "numberOfDocs": 3,
+                "baseName": "Racks and Enclosures",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "ranges": [
+            {
+                "id": 63427,
+                "label": "EcoStruxure Micro Data Centers",
+                "numberOfDocs": 3,
+                "baseName": null,
+                "legacy": false,
+                "checked": true,
+                "static": true
+            }
+        ],
+        "productBrands": null,
+        "applications": null,
+        "productReferenceGroup": null,
+        "contentTypes": null,
+        "operatingSystems": null,
+        "contents": [
+            {
+                "id": 100438137,
+                "label": "Typical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Typical Drawing",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "perimeters": [
+            {
+                "id": 97894146728,
+                "label": "Generic",
+                "numberOfDocs": 1,
+                "baseName": "Generic",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "conformityInformation": [
+            {
+                "id": 97894161151,
+                "label": "EU RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "EU RoHS Declaration",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "organizations": [
+            {
+                "id": 1556049,
+                "label": "SCHNEIDER ELECTRIC",
+                "numberOfDocs": 1,
+                "baseName": "Schneider Electric",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "certificationCountries": [
+            {
+                "id": 97894145693,
+                "label": "International",
+                "numberOfDocs": 1,
+                "baseName": "International",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "standards": null,
+        "domains": null,
+        "audienceFacets": null,
+        "businessTypes": null
+    },
+    "sortByOptions": {
+        "Document_Date_New": "Sort by newest",
+        "Popularity": "Sort by most popular"
+    },
+    "itemsPerPageOptions": "10, 20, 30, 50, 100",
+    "criteria": {
+        "sortByField": "Document_Date_New",
+        "isIdolConsumer": "false",
+        "pageNumber": "1",
+        "itemsPerPage": "20"
+    }
+}

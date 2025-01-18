@@ -1,0 +1,1154 @@
+{
+    "documentsCount": 9,
+    "dataSource": "BSL Rest",
+    "documents": [
+        {
+            "reference": "MDC42SX5KVAT_REACH_DECLARATION",
+            "title": "MDC42SX5KVAT REACh Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_REACH_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "Ecostruxure Micro Data Center, with 42U SX rack, 5kVA, 208V, 60 Hz, pre assembled, 1991H x 600W x 1070D mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_REACH_DECLARATION_US_en-US.pdf",
+            "documentId": 123551011168,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "MDC42SX5KVAT_REACH_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "MDC42SX5KVAT_REACH_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_REACH_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_REACH_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "REACh Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "MDC42SX5KVAT_ROHS_CHINA_DECLARATION",
+            "title": "MDC42SX5KVAT China RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_CHINA_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "Ecostruxure Micro Data Center, with 42U SX rack, 5kVA, 208V, 60 Hz, pre assembled, 1991H x 600W x 1070D mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_CHINA_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+            "documentId": 104575705192,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "MDC42SX5KVAT_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "MDC42SX5KVAT_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_CHINA_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_ROHS_CHINA_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "China RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "China"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JGNY-B26A7G_EN",
+            "title": "Addendum - California Proposition 65 Warning Statement",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JGNY-B26A7G_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jul/08/2022",
+            "shortDescription": "Addendum - California Proposition 65 Warning Statement for Smart-UPS On-Line, Smart-UPS, Back-UPS, SurgeArrest",
+            "description": null,
+            "size": "112.8 KB",
+            "version": "1.6",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JGNY-B26A7G_EN&p_enDocType=Certificate+%28Sustainability%29&p_File_Name=JGNY-B26A7G_R0_EN.pdf",
+            "documentId": 123921125398,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892823-Certificate",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "JGNY-B26A7G_R0_EN.pdf",
+            "enDocType": "Certificate (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "JGNY-B26A7G_R0_EN.pdf",
+                    "id": "124016783481",
+                    "size": "112.8 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JGNY-B26A7G_EN&p_enDocType=Certificate+%28Sustainability%29&p_File_Name=JGNY-B26A7G_R0_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "5b68e50e776fe3e768c7ae47239d62bb",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "Declare"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_MDC_Specs_S-Series_EN",
+            "title": "EcoStruxure Micro Data Center S-Series Spec table",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_S-Series_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jul/14/2020",
+            "shortDescription": "Made for server rooms or networks closets, our S-Series is highly customizable and easy to configure with hardware, software, and services, including...",
+            "description": "Made for server rooms or networks closets, our S-Series is highly customizable and easy to configure with hardware, software, and services, including validation of third party IT equipment with all the largest vendors.",
+            "size": "239.7 KB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_S-Series_EN&p_enDocType=Brochure&p_File_Name=S-Series+Tech+Specs.pdf",
+            "documentId": 123849101923,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555865-Brochure",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "S-Series Tech Specs.pdf",
+            "enDocType": "Brochure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "S-Series Tech Specs.pdf",
+                    "id": "123849101934",
+                    "size": "239.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MDC_Specs_S-Series_EN&p_enDocType=Brochure&p_File_Name=S-Series+Tech+Specs.pdf",
+                    "disableDownload": false,
+                    "checkSum": "85b2432a02797e8b145d171ad11470b9",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "MDC42SX5KVAT_ROHS_DECLARATION",
+            "title": "MDC42SX5KVAT EU RoHS Declaration",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_DECLARATION&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jan/15/2025",
+            "shortDescription": "Ecostruxure Micro Data Center, with 42U SX rack, 5kVA, 208V, 60 Hz, pre assembled, 1991H x 600W x 1070D mm",
+            "description": null,
+            "size": "195.3 KB",
+            "version": null,
+            "locales": "English",
+            "extension": ".PDF",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_ROHS_DECLARATION_US_en-US.pdf",
+            "documentId": 27581245809,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "97899892876-Declaration of conformity",
+            "docTypeGroups": [
+                {
+                    "id": 120246343550,
+                    "label": "Sustainability",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "MDC42SX5KVAT_ROHS_DECLARATION_US_en-US.pdf",
+            "enDocType": "Declaration of Conformity (Sustainability)",
+            "documentFiles": [
+                {
+                    "extension": ".PDF",
+                    "filename": "MDC42SX5KVAT_ROHS_DECLARATION_US_en-US.pdf",
+                    "id": "0",
+                    "size": "195.3 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=MDC42SX5KVAT_ROHS_DECLARATION&p_enDocType=Declaration+of+Conformity+%28Sustainability%29&p_File_Name=MDC42SX5KVAT_ROHS_DECLARATION_US_en-US.pdf",
+                    "disableDownload": false,
+                    "checkSum": null,
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": true,
+            "operatingSystem": null,
+            "subTypes": [],
+            "organizations": [
+                "SCHNEIDER ELECTRIC"
+            ],
+            "standards": [],
+            "conformityInformation": [
+                "EU RoHS Declaration"
+            ],
+            "certificationCountries": [
+                "International"
+            ],
+            "perimeters": [
+                "Generic"
+            ],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_KBOH-ANHPXB_EN",
+            "title": "Micro Data Center Xpress",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KBOH-ANHPXB_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Jun/20/2017",
+            "shortDescription": "Micro Data Center Xpress solutions from APC by Schneider Electric are Certified, Compatible, Secure, and Manageable...",
+            "description": "Micro Data Center Xpress solutions from APC by Schneider Electric are Certified, Compatible, Secure, and Manageable. They simplify physical infrastructure deployment in Edge environments, making it fast, easy, and cost effective.",
+            "size": "658.9 KB",
+            "version": "V0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KBOH-ANHPXB_EN&p_enDocType=Brochure&p_File_Name=KBOH-ANHPXB_R0_EN.pdf",
+            "documentId": 123848331057,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555865-Brochure",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "KBOH-ANHPXB_R0_EN.pdf",
+            "enDocType": "Brochure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "KBOH-ANHPXB_R0_EN.pdf",
+                    "id": "123848331068",
+                    "size": "658.9 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_KBOH-ANHPXB_EN&p_enDocType=Brochure&p_File_Name=KBOH-ANHPXB_R0_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "60163647de77c37be97db7786d1e9cd0",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V0",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_JSHR-AMA8DG_EN",
+            "title": "MDC42SX5KVAT - Micro DC, 42U SX, 5kVA 208V",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSHR-AMA8DG_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "May/11/2017",
+            "shortDescription": "Micro Data Centers",
+            "description": null,
+            "size": "8.9 MB",
+            "version": "1.0",
+            "locales": "English",
+            "extension": "ZIP",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 2,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSHR-AMA8DG_EN&p_enDocType=Technical+Drawing&p_Archive_Name=SPD_JSHR-AMA8DG_EN.zip",
+            "documentId": 123893048621,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "305454116-Technical Drawing",
+            "docTypeGroups": [
+                {
+                    "id": 120245927022,
+                    "label": "CAD, Drawings, & Curves",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "SPD_JSHR-AMA8DG_EN.zip",
+            "enDocType": "Technical Drawing",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "JSHR-AMA8DG_R0_EN.pdf",
+                    "id": "123893048684",
+                    "size": "1.2 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSHR-AMA8DG_EN&p_enDocType=Technical+Drawing&p_File_Name=JSHR-AMA8DG_R0_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "fa2b0fba9e4f6d8ed7c5d35ccce96e41",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                },
+                {
+                    "extension": "dwg",
+                    "filename": "MDC42SX5KVAT_-_Micro_DC_42U_SX_5kVA_208V.dwg",
+                    "id": "123893051068",
+                    "size": "7.7 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_JSHR-AMA8DG_EN&p_enDocType=Technical+Drawing&p_File_Name=MDC42SX5KVAT_-_Micro_DC_42U_SX_5kVA_208V.dwg",
+                    "disableDownload": false,
+                    "checkSum": "05a5041efae61e36bfa8bede9a09dfbf",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": [
+                "Typical Drawing"
+            ],
+            "organizations": [],
+            "standards": [],
+            "conformityInformation": [],
+            "certificationCountries": [],
+            "perimeters": [],
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": null,
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_THON-ALDR34_EN",
+            "title": "Micro Data Center Xpress",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_THON-ALDR34_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Apr/18/2017",
+            "shortDescription": "Edge computing brings bandwidth intensive content and latency-sensitive applications closer to the user or data source.",
+            "description": null,
+            "size": "196.7 KB",
+            "version": "V0",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_THON-ALDR34_EN&p_enDocType=Brochure&p_File_Name=THON-ALDR34_R0_EN.pdf",
+            "documentId": 123848345656,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555865-Brochure",
+            "docTypeGroups": [
+                {
+                    "id": 120245911031,
+                    "label": "Catalogs & Brochures",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "THON-ALDR34_R0_EN.pdf",
+            "enDocType": "Brochure",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "THON-ALDR34_R0_EN.pdf",
+                    "id": "123848345664",
+                    "size": "196.7 KB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_THON-ALDR34_EN&p_enDocType=Brochure&p_File_Name=THON-ALDR34_R0_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "f4515aecb1452256f00cd1967d722f6b",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V0",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        },
+        {
+            "reference": "SPD_MKEY-9CRMY8_EN",
+            "title": "NetShelter SX w/ Shock Packaging Unpacking Instructions",
+            "imageUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-9CRMY8_EN&p_File_Type=big%20Thumbnail&default_image=DefaultProductImage.jpg",
+            "documentDate": "Sep/26/2014",
+            "shortDescription": null,
+            "description": null,
+            "size": "2 MB",
+            "version": "V1",
+            "locales": "English",
+            "extension": "pdf",
+            "bannerUrl": null,
+            "online": false,
+            "onlineCad": false,
+            "numberOfDoc": 1,
+            "downloadUrl": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-9CRMY8_EN&p_enDocType=User+guide&p_File_Name=MKEY-9CRMY8_R1_EN.pdf",
+            "documentId": 123773389919,
+            "disableDownload": false,
+            "documentTypeDisplayLabel": "1555855-User guide",
+            "docTypeGroups": [
+                {
+                    "id": 120246088490,
+                    "label": "Installation & User Guides",
+                    "numberOfDocs": null,
+                    "baseName": null,
+                    "checked": false,
+                    "static": false
+                }
+            ],
+            "productReferences": null,
+            "filename": "MKEY-9CRMY8_R1_EN.pdf",
+            "enDocType": "User guide",
+            "documentFiles": [
+                {
+                    "extension": "pdf",
+                    "filename": "MKEY-9CRMY8_R1_EN.pdf",
+                    "id": "123773389927",
+                    "size": "2 MB",
+                    "downloadFileURL": "//download.schneider-electric.com/files?p_Doc_Ref=SPD_MKEY-9CRMY8_EN&p_enDocType=User+guide&p_File_Name=MKEY-9CRMY8_R1_EN.pdf",
+                    "disableDownload": false,
+                    "checkSum": "2f86b791ad3b4ff23e5976e674514bec",
+                    "downloaded": false,
+                    "audience": {
+                        "id": 0,
+                        "name": "Public",
+                        "localizedLabel": null,
+                        "label": "Public"
+                    }
+                }
+            ],
+            "hasPreviousVersion": false,
+            "hasTranslations": false,
+            "operatingSystem": null,
+            "subTypes": null,
+            "organizations": null,
+            "standards": null,
+            "conformityInformation": null,
+            "certificationCountries": null,
+            "perimeters": null,
+            "salesKitDocuments": null,
+            "hasSalesKit": false,
+            "audience": {
+                "id": 0,
+                "name": "Public",
+                "localizedLabel": null,
+                "label": "Public"
+            },
+            "lastModificationDate": null,
+            "revision": "V1",
+            "downloadTrackable": false,
+            "defaultFormattedDocumentDate": null,
+            "defaultFormattedLastModificationDate": null,
+            "displayLanguage": null,
+            "onlineDocDownloadable": false,
+            "private": false
+        }
+    ],
+    "documentFilters": {
+        "documentTypeGroups": [
+            {
+                "id": 120245927022,
+                "label": "CAD, Drawings, & Curves",
+                "numberOfDocs": 1,
+                "baseName": "CAD, Drawings, & Curves",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120245911031,
+                "label": "Catalogs & Brochures",
+                "numberOfDocs": 3,
+                "baseName": "Catalogs & Brochures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246088490,
+                "label": "Installation & User Guides",
+                "numberOfDocs": 1,
+                "baseName": "Installation & User Guides",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 120246343550,
+                "label": "Sustainability",
+                "numberOfDocs": 4,
+                "baseName": "Sustainability",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "documentTypes": [
+            {
+                "id": 1555865,
+                "label": "Brochure",
+                "numberOfDocs": 3,
+                "baseName": "Brochure",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97899892823,
+                "label": "Certificate",
+                "numberOfDocs": 1,
+                "baseName": "Certificate",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97899892876,
+                "label": "Declaration of conformity",
+                "numberOfDocs": 3,
+                "baseName": "Declaration of conformity",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 305454116,
+                "label": "Technical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Technical Drawing",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 1555855,
+                "label": "User guide",
+                "numberOfDocs": 1,
+                "baseName": "User guide",
+                "englishLabel": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "languages": [
+            {
+                "id": 0,
+                "label": "All languages",
+                "numberOfDocs": null,
+                "baseName": "All",
+                "name": null,
+                "checked": true,
+                "static": false
+            },
+            {
+                "id": 4604579,
+                "label": "English",
+                "numberOfDocs": 9,
+                "baseName": null,
+                "name": null,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "categories": [
+            {
+                "id": 11088635894,
+                "label": "Audio-Video Solutions",
+                "numberOfDocs": 1,
+                "baseName": "Audio-Video Solutions",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696328,
+                "label": "Racks and Accessories",
+                "numberOfDocs": 6,
+                "baseName": "Racks and Accessories",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696366,
+                "label": "Uninterruptible Power Supply (UPS)",
+                "numberOfDocs": 1,
+                "baseName": "Uninterruptible Power Supply (UPS)",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "subCategories": [
+            {
+                "id": 16893070986,
+                "label": "AV Power Conditioners with Battery",
+                "numberOfDocs": 1,
+                "baseName": "AV Power Conditioners with Battery",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696372,
+                "label": "Home & Office Electronics",
+                "numberOfDocs": 1,
+                "baseName": "Home & Office Electronics",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696374,
+                "label": "Network and Server",
+                "numberOfDocs": 1,
+                "baseName": "Network and Server",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696330,
+                "label": "Racks and Enclosures",
+                "numberOfDocs": 6,
+                "baseName": "Racks and Enclosures",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696382,
+                "label": "Special Applications",
+                "numberOfDocs": 1,
+                "baseName": "Special Applications",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 10572696380,
+                "label": "UPS Replacement Batteries",
+                "numberOfDocs": 1,
+                "baseName": "UPS Replacement Batteries",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "ranges": [
+            {
+                "id": 61769,
+                "label": "AV Power Conditioners & Battery Backups",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61883,
+                "label": "Back-UPS",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61888,
+                "label": "Back-UPS Pro",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62609,
+                "label": "Charge UPS",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62582,
+                "label": "Custom",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": true,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 63427,
+                "label": "EcoStruxure Micro Data Centers",
+                "numberOfDocs": 6,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62271,
+                "label": "Marine",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61821,
+                "label": "NetShelter SX Enclosures",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62255,
+                "label": "Replacement Battery Cartridges",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61915,
+                "label": "Smart-UPS",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61916,
+                "label": "Smart-UPS Accessories",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61917,
+                "label": "Smart-UPS Battery Systems",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 61918,
+                "label": "Smart-UPS On-Line",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 62272,
+                "label": "Special Configurations",
+                "numberOfDocs": 1,
+                "baseName": null,
+                "legacy": false,
+                "checked": false,
+                "static": false
+            }
+        ],
+        "productBrands": null,
+        "applications": null,
+        "productReferenceGroup": null,
+        "contentTypes": null,
+        "operatingSystems": null,
+        "contents": [
+            {
+                "id": 100438137,
+                "label": "Typical Drawing",
+                "numberOfDocs": 1,
+                "baseName": "Typical Drawing",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "perimeters": [
+            {
+                "id": 97894146728,
+                "label": "Generic",
+                "numberOfDocs": 4,
+                "baseName": "Generic",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "conformityInformation": [
+            {
+                "id": 97894160254,
+                "label": "China RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "China RoHS Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145265,
+                "label": "Declare",
+                "numberOfDocs": 1,
+                "baseName": "Declare",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894161151,
+                "label": "EU RoHS Declaration",
+                "numberOfDocs": 1,
+                "baseName": "EU RoHS Declaration",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894159858,
+                "label": "REACh Declaration",
+                "numberOfDocs": 1,
+                "baseName": "REACh Declaration",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "organizations": [
+            {
+                "id": 1556049,
+                "label": "SCHNEIDER ELECTRIC",
+                "numberOfDocs": 4,
+                "baseName": "Schneider Electric",
+                "checked": true,
+                "static": true
+            }
+        ],
+        "certificationCountries": [
+            {
+                "id": 97894145595,
+                "label": "China",
+                "numberOfDocs": 1,
+                "baseName": "China",
+                "checked": false,
+                "static": false
+            },
+            {
+                "id": 97894145693,
+                "label": "International",
+                "numberOfDocs": 3,
+                "baseName": "International",
+                "checked": false,
+                "static": false
+            }
+        ],
+        "standards": null,
+        "domains": null,
+        "audienceFacets": null,
+        "businessTypes": null
+    },
+    "sortByOptions": {
+        "Document_Date_New": "Sort by newest",
+        "Popularity": "Sort by most popular"
+    },
+    "itemsPerPageOptions": "10, 20, 30, 50, 100",
+    "criteria": {
+        "sortByField": "Document_Date_New",
+        "isIdolConsumer": "false",
+        "pageNumber": "1",
+        "itemsPerPage": "20"
+    }
+}
