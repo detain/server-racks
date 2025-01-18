@@ -14,9 +14,6 @@ foreach ($data as $model => $row) {
         'height' => 0,
         'width' => 0,
         'depth' => 0,
-        'weight' => isset($row['specs']['PHYSICAL']['Unit Weight (lbs.)']) ? (float)$row['specs']['PHYSICAL']['Unit Weight (lbs.)'] : null,
-        'max_mount_depth' => (float)$row['specs']['PHYSICAL']['Maximum Device Depth (in.)'],
-        'perm_load' => (float)$row['specs']['PHYSICAL']['Weight Capacity - Stationary (lbs.)'],
         'images' => [],
         'files' => [],
     ];
@@ -45,9 +42,9 @@ foreach ($data as $model => $row) {
         $rack['images'][$file] = str_replace([' thumbnail image', "Image shown is a representation only. Standard-width enclosures do not have wide mounting rails."], ['', $model], $title);
     }
     $parts = explode(' x ', $row['specs']['PHYSICAL']['Unit Dimensions (hwd / in.)']);
-    $rack['height'] = (float)$parts[0];
-    $rack['width'] = (float)$parts[1];
-    $rack['depth'] = (float)$parts[2];    
+    $rack['height'] = (float)round($parts[0], 1);
+    $rack['width'] = (float)round($parts[1], 1);
+    $rack['depth'] = (float)round($parts[2], 1);
     $racks[] = $rack;
 }
 $data = json_decode(file_get_contents('apc.json'), true);
@@ -58,12 +55,9 @@ foreach ($data as $model => $row) {
         'title' => str_replace('[TAA, BAA_COTS] ', '', $row['product-info']['description']),
         'units' => (int)str_replace('U', '', isset($row['characteristic-tables']['Main']['Number of rack unit']) ? $row['characteristic-tables']['Main']['Number of rack unit'] : $row['characteristic-tables']['Physical']['Number of rack unit']),
         'color' => isset($row['characteristic-tables']['Physical']['Color']) ? $row['characteristic-tables']['Physical']['Color'] : (in_array($model, ['AR3187B2', 'MDC42SX5KVAT']) ? 'Black' : 'White'),
-        'height' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Height'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Height'],
-        'width' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Width'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Width'],
-        'depth' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Depth'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Depth'],
-        'weight' => preg_match('/^([\d\.]+) lb/', $row['characteristic-tables']['Physical']['Net Weight'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Net Weight'],
-        'max_mount_depth ' => isset($row['characteristic-tables']['Physical']['Maximum Mounting Depth']) ? (preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Maximum Mounting Depth'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Maximum Mounting Depth']) : null,
-        'perm_load' => isset($row['characteristic-tables']['Physical']['Permanent permissible load']) ? (preg_match('/^([\d\.]+) lb/', $row['characteristic-tables']['Physical']['Permanent permissible load'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Permanent permissible load']): null,
+        'height' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Height'], $matches) ? (float)round($matches[1], 1) : $row['characteristic-tables']['Physical']['Height'],
+        'width' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Width'], $matches) ? (float)round($matches[1], 1) : $row['characteristic-tables']['Physical']['Width'],
+        'depth' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Depth'], $matches) ? (float)round($matches[1], 1) : $row['characteristic-tables']['Physical']['Depth'],
         'images' => [],
         'files' => [],
     ];
