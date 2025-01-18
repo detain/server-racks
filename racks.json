@@ -2,7 +2,7 @@
     {
         "model": "ETN-ENC422442S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 42U Server Rack Enclosure - 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -25,7 +25,7 @@
     {
         "model": "ETN-ENC422448S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 42U Server Rack Enclosure - 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -48,7 +48,7 @@
     {
         "model": "ETN-ENC423042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 42U Server Rack Enclosure - Wide, 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -71,7 +71,7 @@
     {
         "model": "ETN-ENC423048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 42U Server Rack Enclosure - Wide, 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -94,7 +94,7 @@
     {
         "model": "ETN-ENC442442S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 44U Server Rack Enclosure - 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -117,7 +117,7 @@
     {
         "model": "ETN-ENC442448S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 44U Server Rack Enclosure - 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -140,7 +140,7 @@
     {
         "model": "ETN-ENC443042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 44U Server Rack Enclosure - Wide, 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -163,7 +163,7 @@
     {
         "model": "ETN-ENC443048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 44U Server Rack Enclosure - Wide, 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -186,7 +186,7 @@
     {
         "model": "ETN-ENC482442S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 48U Server Rack Enclosure - 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -209,7 +209,7 @@
     {
         "model": "ETN-ENC482448S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 48U Server Rack Enclosure - 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -232,7 +232,7 @@
     {
         "model": "ETN-ENC483042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 48U Server Rack Enclosure - Wide, 42 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -255,7 +255,7 @@
     {
         "model": "ETN-ENC483048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount 48U Server Rack Enclosure - Wide, 48 in. Depth, Doors Included, No Side Panels, TAA",
+        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -278,7 +278,7 @@
     {
         "model": "SR2POST",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack 2-Post Open Frame Rack, 800 lbs (362.9 kgs) Capacity - Organize and Secure Network Rack Equipment",
+        "title": "Tripp Lite series SmartRack 2-Post Open Frame Rack, 800 lbs (362.9 kgs) Capacity - Organize and Secure Network Rack Equipment",
         "color": "Black",
         "units": 45,
         "height": 84.01,
@@ -297,7 +297,7 @@
     {
         "model": "SR2POSTDP12HD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 45U Heavy-Duty 2-Post Open Frame Rack, 12-Inch Deep",
+        "title": "Tripp Lite series SmartRack Heavy-Duty 2-Post Open Frame Rack, 12-Inch Deep",
         "color": "Black",
         "units": 45,
         "height": 85.83,
@@ -319,7 +319,7 @@
     {
         "model": "SR2POSTDP24HD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 45U Heavy-Duty 2-Post Open Frame Rack, 24-Inch Deep",
+        "title": "Tripp Lite series SmartRack Heavy-Duty 2-Post Open Frame Rack, 24-Inch Deep",
         "color": "Black",
         "units": 45,
         "height": 85.83,
@@ -348,7 +348,7 @@
     {
         "model": "SR42BMDEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack 4-Post Mid-Depth Open Frame Rack, Expansion Version - no sides, doors or roof",
+        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack, Expansion Version - no sides, doors or roof",
         "color": "Black",
         "units": 42,
         "height": 79.5,
@@ -367,7 +367,7 @@
     {
         "model": "SR42UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 42U Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -402,7 +402,7 @@
     {
         "model": "SR42UB1032",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Standard-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -422,7 +422,7 @@
     {
         "model": "SR42UBCL",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
+        "title": "Tripp Lite series SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -440,7 +440,7 @@
     {
         "model": "SR42UBDP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Deep Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Deep Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -458,7 +458,7 @@
     {
         "model": "SR42UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -476,7 +476,7 @@
     {
         "model": "SR42UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -494,7 +494,7 @@
     {
         "model": "SR42UBEIS",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 42U Standard-Depth Rack Enclosure Cabinet for Harsh Environments",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet for Harsh Environments",
         "color": "Black",
         "units": 42,
         "height": 79.82,
@@ -520,7 +520,7 @@
     {
         "model": "SR42UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Expandable Standard-Depth Server Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Expandable Standard-Depth Server Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -538,7 +538,7 @@
     {
         "model": "SR42UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U Standard-Depth 4-Post Premium Open Frame Rack - No Doors or Side Panels",
+        "title": "Tripp Lite series Standard-Depth 4-Post Premium Open Frame Rack - No Doors or Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -555,7 +555,7 @@
     {
         "model": "SR42UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U Standard-Depth 4-Post Premium Open Frame Rack - No Doors, Side Panels or Top Panel",
+        "title": "Tripp Lite series Standard-Depth 4-Post Premium Open Frame Rack - No Doors, Side Panels or Top Panel",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -572,7 +572,7 @@
     {
         "model": "SR42UBG",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 42U Standard-Depth Rack Enclosure Cabinet with Clear Acrylic Window",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with Clear Acrylic Window",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -589,7 +589,7 @@
     {
         "model": "SR42UBKD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Knock-Down Standard-Depth Rack Enclosure Cabinet Kit",
+        "title": "Tripp Lite series SmartRack Knock-Down Standard-Depth Rack Enclosure Cabinet Kit",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -609,7 +609,7 @@
     {
         "model": "SR42UBMD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -628,7 +628,7 @@
     {
         "model": "SR42UBMDEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Mid-Depth Expansion Rack - side panels not included",
+        "title": "Tripp Lite series SmartRack Mid-Depth Expansion Rack - side panels not included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -646,7 +646,7 @@
     {
         "model": "SR42UBMDEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack 4-Post Mid-Depth Open Frame Rack - no sides or doors",
+        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack - no sides or doors",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -663,7 +663,7 @@
     {
         "model": "SR42UBSD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -683,7 +683,7 @@
     {
         "model": "SR42UBSD1032",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Shallow-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
+        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -703,7 +703,7 @@
     {
         "model": "SR42UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet shipping",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet shipping",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -722,7 +722,7 @@
     {
         "model": "SR42UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -743,7 +743,7 @@
     {
         "model": "SR42UBWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 42U Standard-Depth Extra-Wide Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Standard-Depth Extra-Wide Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -775,7 +775,7 @@
     {
         "model": "SR42UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -795,7 +795,7 @@
     {
         "model": "SR42UBWDVRT",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Two Pre-Installed SRCABLEVRT3, with sides & doors",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Two Pre-Installed SRCABLEVRT3, with sides & doors",
         "color": "Black",
         "units": 42,
         "height": 79.5,
@@ -815,7 +815,7 @@
     {
         "model": "SR42UBZ4",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 42U SmartRack Seismic-Certified Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Seismic-Certified Standard-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -837,7 +837,7 @@
     {
         "model": "SR45UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Standard-Depth Server Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Standard-Depth Server Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -860,7 +860,7 @@
     {
         "model": "SR45UBDP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Deep Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Deep Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -878,7 +878,7 @@
     {
         "model": "SR45UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -913,7 +913,7 @@
     {
         "model": "SR45UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -931,7 +931,7 @@
     {
         "model": "SR45UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -949,7 +949,7 @@
     {
         "model": "SR45UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 45U Standard-Depth 4-Post Premium Open Frame Rack",
+        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -966,7 +966,7 @@
     {
         "model": "SR45UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 45U Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
+        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -983,7 +983,7 @@
     {
         "model": "SR45UBMD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1002,7 +1002,7 @@
     {
         "model": "SR45UBMDEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack 4-Post Mid-Depth Open Frame Rack",
+        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1019,7 +1019,7 @@
     {
         "model": "SR45UBSD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1037,7 +1037,7 @@
     {
         "model": "SR45UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1056,7 +1056,7 @@
     {
         "model": "SR45UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1084,7 +1084,7 @@
     {
         "model": "SR45UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 45U Wide Standard-Depth Rack Enclosure Cabinet - Doors & Side Panels Included, Shock Pallet Packaging",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet - Doors & Side Panels Included, Shock Pallet Packaging",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1102,7 +1102,7 @@
     {
         "model": "SR45UBWDVRT",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels, 2 Pre-Installed Cable Managers",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels, 2 Pre-Installed Cable Managers",
         "color": "Black",
         "units": 45,
         "height": 83.75,
@@ -1122,7 +1122,7 @@
     {
         "model": "SR48UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1142,7 +1142,7 @@
     {
         "model": "SR48UBCL",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
+        "title": "Tripp Lite series SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1160,7 +1160,7 @@
     {
         "model": "SR48UBDP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack DEEP Premium Enclosure includes doors and side panels",
+        "title": "Tripp Lite series SmartRack DEEP Premium Enclosure includes doors and side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1178,7 +1178,7 @@
     {
         "model": "SR48UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1196,7 +1196,7 @@
     {
         "model": "SR48UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1214,7 +1214,7 @@
     {
         "model": "SR48UBDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 48U Deep Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
+        "title": "Tripp Lite series SmartRack Deep Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1246,7 +1246,7 @@
     {
         "model": "SR48UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1264,7 +1264,7 @@
     {
         "model": "SR48UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 48U Standard-Depth 4-Post Premium Open Frame Rack with No Sides or Doors",
+        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides or Doors",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1281,7 +1281,7 @@
     {
         "model": "SR48UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 48U Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
+        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1298,7 +1298,7 @@
     {
         "model": "SR48UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1315,7 +1315,7 @@
     {
         "model": "SR48UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1344,7 +1344,7 @@
     {
         "model": "SR48UBWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 48U Standard-Depth Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
+        "title": "Tripp Lite series SmartRack Standard-Depth Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1376,7 +1376,7 @@
     {
         "model": "SR48UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1408,7 +1408,7 @@
     {
         "model": "SR4POST",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack 4-Post Open Frame Rack, 1000 lbs (453.6 kgs) Capacity - Organize and Secure Network Rack Equipment",
+        "title": "Tripp Lite series SmartRack 4-Post Open Frame Rack, 1000 lbs (453.6 kgs) Capacity - Organize and Secure Network Rack Equipment",
         "color": "Black",
         "units": 45,
         "height": 84.3,
@@ -1427,7 +1427,7 @@
     {
         "model": "SR4POST1224",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 45U SmartRack 4-Post Open Frame Rack - Threaded 12-24 Mounting Holes",
+        "title": "Tripp Lite series SmartRack 4-Post Open Frame Rack - Threaded 12-24 Mounting Holes",
         "color": "Black",
         "units": 45,
         "height": 84.3,
@@ -1445,7 +1445,7 @@
     {
         "model": "SR4POST48HD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series 48U Heavy-Duty 4-Post SmartRack Open Frame Rack - Organize and Secure Network Rack Equipment",
+        "title": "Tripp Lite series Heavy-Duty 4-Post SmartRack Open Frame Rack - Organize and Secure Network Rack Equipment",
         "color": "Black",
         "units": 48,
         "height": 90,
@@ -1467,7 +1467,7 @@
     {
         "model": "SRCOOL5KWRM42U",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Self-Cooling 42U Server Rack Enclosure with Single-Phase 5.5 kW (18,766 BTU) Cooling Unit, 208V, 60 Hz",
+        "title": "Eaton SmartRack Self-Cooling Server Rack Enclosure with Single-Phase 5.5 kW (18,766 BTU) Cooling Unit, 208V, 60 Hz",
         "color": "Black",
         "units": 42,
         "height": 82.66,
@@ -1506,7 +1506,7 @@
     {
         "model": "SRH42UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1550,7 +1550,7 @@
     {
         "model": "SRH42UWDP",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1594,7 +1594,7 @@
     {
         "model": "SRH42UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1638,7 +1638,7 @@
     {
         "model": "SRH42UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1683,7 +1683,7 @@
     {
         "model": "SRH42UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1727,7 +1727,7 @@
     {
         "model": "SRH42UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 42U Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.64,
@@ -1772,7 +1772,7 @@
     {
         "model": "SRH45UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.86,
@@ -1816,7 +1816,7 @@
     {
         "model": "SRH45UWDP",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.86,
@@ -1860,7 +1860,7 @@
     {
         "model": "SRH45UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.86,
@@ -1904,7 +1904,7 @@
     {
         "model": "SRH45UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.86,
@@ -1947,7 +1947,7 @@
     {
         "model": "SRH45UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.91,
@@ -1991,7 +1991,7 @@
     {
         "model": "SRH45UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 45U Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.91,
@@ -2036,7 +2036,7 @@
     {
         "model": "SRH48UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2080,7 +2080,7 @@
     {
         "model": "SRH48UWDP",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2124,7 +2124,7 @@
     {
         "model": "SRH48UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2168,7 +2168,7 @@
     {
         "model": "SRH48UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2212,7 +2212,7 @@
     {
         "model": "SRH48UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2256,7 +2256,7 @@
     {
         "model": "SRH48UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack 48U Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers, White",
+        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.16,
@@ -2301,7 +2301,7 @@
     {
         "model": "SRP-R-C12",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Pre-Configured, Self-Cooling Modular Data Center - 44U Rack, 12 kW AC Unit",
+        "title": "Eaton SmartRack Pre-Configured, Self-Cooling Modular Data Center - Rack, 12 kW AC Unit",
         "color": "Black",
         "units": 44,
         "height": 95.07,
@@ -2339,7 +2339,7 @@
     {
         "model": "SRP-R-C25",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Pre-Configured, Self-Cooling Modular Data Center - 44U Rack, 25 kW AC Unit",
+        "title": "Eaton SmartRack Pre-Configured, Self-Cooling Modular Data Center - Rack, 25 kW AC Unit",
         "color": "Black",
         "units": 44,
         "height": 95.07,
@@ -2377,7 +2377,7 @@
     {
         "model": "SRQP42UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 42U Standard-Depth Quiet Server Rack Enclosure Cabinet with Sound Suppression",
+        "title": "Tripp Lite series SmartRack Standard-Depth Quiet Server Rack Enclosure Cabinet with Sound Suppression",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -2406,7 +2406,7 @@
     {
         "model": "AR201",
         "vendor": "APC",
-        "title": "NetShelter 2 Post Rack 45U #12-24 Threaded Holes Black",
+        "title": "NetShelter 2 Post Rack #12-24 Threaded Holes",
         "units": 45,
         "color": "Black",
         "height": 84.09,
@@ -2425,7 +2425,7 @@
     {
         "model": "AR203A",
         "vendor": "APC",
-        "title": "NetShelter 4 Post Open Frame Rack 44U Square Holes",
+        "title": "NetShelter 4 Post Open Frame Rack Square Holes",
         "units": 44,
         "color": "Black",
         "height": 83.86,
@@ -2446,7 +2446,7 @@
     {
         "model": "AR204A",
         "vendor": "APC",
-        "title": "NetShelter 4 Post Open Frame Rack 44U #12-24 Threaded Holes",
+        "title": "NetShelter 4 Post Open Frame Rack #12-24 Threaded Holes",
         "units": 44,
         "color": "Black",
         "height": 83.86,
@@ -2467,7 +2467,7 @@
     {
         "model": "AR2144BLK",
         "vendor": "APC",
-        "title": "NetShelter VX Seismic 42U Enclosure w/Sides Black",
+        "title": "NetShelter VX Seismic Enclosure w/Sides",
         "units": 42,
         "color": "Black",
         "height": 81.5,
@@ -2496,7 +2496,7 @@
     {
         "model": "AR2145BLK",
         "vendor": "APC",
-        "title": "NetShelter VX Seismic 42U Enclosure w/out Sides Black",
+        "title": "NetShelter VX Seismic Enclosure w/out Sides",
         "units": 42,
         "color": "Black",
         "height": 81.5,
@@ -2518,7 +2518,7 @@
     {
         "model": "AR2400",
         "vendor": "APC",
-        "title": "NetShelter SV 42U 600mm Wide x 1060mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 600mm Wide x 1060mm Deep Enclosure with Sides",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2552,7 +2552,7 @@
     {
         "model": "AR2400FP1",
         "vendor": "APC",
-        "title": "NetShelter SV 42U 600mm Wide x 1060mm Deep Enclosure with Sides, Black, Single Rack Unassembled",
+        "title": "NetShelter SV 600mm Wide x 1060mm Deep Enclosure with Sides, Single Rack Unassembled",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2586,7 +2586,7 @@
     {
         "model": "AR2401",
         "vendor": "APC",
-        "title": "NetShelter SV 42U 600mm Wide x 1060mm Deep Enclosure without Sides Black",
+        "title": "NetShelter SV 600mm Wide x 1060mm Deep Enclosure without Sides",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2620,7 +2620,7 @@
     {
         "model": "AR2407",
         "vendor": "APC",
-        "title": "NetShelter SV 48U 600mm Wide x 1060mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 600mm Wide x 1060mm Deep Enclosure with Sides",
         "units": 48,
         "color": "Black",
         "height": 91.5,
@@ -2654,7 +2654,7 @@
     {
         "model": "AR2480",
         "vendor": "APC",
-        "title": "APC NetShelter SV, Server Rack Enclosure, 42U, Black, 2057H x 800W x 1060D mm with Roof, Castors, Feet, 4 Brackets, Bottom and Side Panels",
+        "title": "APC NetShelter SV, Server Rack Enclosure with Roof, Castors, Feet, 4 Brackets, Bottom and Side Panels",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2688,7 +2688,7 @@
     {
         "model": "AR2487",
         "vendor": "APC",
-        "title": "NetShelter SV 48U 800mm Wide x 1060mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 800mm Wide x 1060mm Deep Enclosure with Sides",
         "units": 48,
         "color": "Black",
         "height": 91.5,
@@ -2722,7 +2722,7 @@
     {
         "model": "AR2500",
         "vendor": "APC",
-        "title": "NetShelter SV 42U 600mm Wide x 1200mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 600mm Wide x 1200mm Deep Enclosure with Sides",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2756,7 +2756,7 @@
     {
         "model": "AR2507",
         "vendor": "APC",
-        "title": "NetShelter SV 48U 600mm Wide x 1200mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 600mm Wide x 1200mm Deep Enclosure with Sides",
         "units": 48,
         "color": "Black",
         "height": 91.5,
@@ -2790,7 +2790,7 @@
     {
         "model": "AR2580",
         "vendor": "APC",
-        "title": "NetShelter SV 42U 800mm Wide x 1200mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 800mm Wide x 1200mm Deep Enclosure with Sides",
         "units": 42,
         "color": "Black",
         "height": 80.98,
@@ -2824,7 +2824,7 @@
     {
         "model": "AR2587",
         "vendor": "APC",
-        "title": "NetShelter SV 48U 800mm Wide x 1200mm Deep Enclosure with Sides Black",
+        "title": "NetShelter SV 800mm Wide x 1200mm Deep Enclosure with Sides",
         "units": 48,
         "color": "Black",
         "height": 91.5,
@@ -2859,7 +2859,7 @@
     {
         "model": "AR3100",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -2900,7 +2900,7 @@
     {
         "model": "AR3100B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 600W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -2923,7 +2923,7 @@
     {
         "model": "AR3100HACS",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -2941,7 +2941,7 @@
     {
         "model": "AR3100SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Shock Packaging, 2000 lbs, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -2966,7 +2966,7 @@
     {
         "model": "AR3100TAA",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 600W x 1070D mm, TAA Compliant",
+        "title": "APC NetShelter SX, Server Rack Enclosure, TAA Compliant",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -2985,7 +2985,7 @@
     {
         "model": "AR3100W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, White, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -3011,7 +3011,7 @@
     {
         "model": "AR3100X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3032,7 +3032,7 @@
     {
         "model": "AR3100X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Doors, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3053,7 +3053,7 @@
     {
         "model": "AR3100X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides and Doors, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3072,7 +3072,7 @@
     {
         "model": "AR3101",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3094,7 +3094,7 @@
     {
         "model": "AR3105",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Black, 2124H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3129,7 +3129,7 @@
     {
         "model": "AR3105B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 45U, 2124H x 600W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3152,7 +3152,7 @@
     {
         "model": "AR3105SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Shock Packaging, 2000 lbs, Black, 2124H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3178,7 +3178,7 @@
     {
         "model": "AR3105TAA",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Black, 2124H x 600W x 1070D mm, TAA Compliant",
+        "title": "APC NetShelter SX, Server Rack Enclosure, TAA Compliant",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3197,7 +3197,7 @@
     {
         "model": "AR3105W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, White, 2124H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "White",
         "height": 83.62,
@@ -3222,7 +3222,7 @@
     {
         "model": "AR3107",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Black, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3258,7 +3258,7 @@
     {
         "model": "AR3107B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 600W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3281,7 +3281,7 @@
     {
         "model": "AR3107SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Shock Packaging, 2000 lbs, Black, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3306,7 +3306,7 @@
     {
         "model": "AR3107TAA",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Black, 2258H x 600W x 1070D mm, TAA Compliant",
+        "title": "APC NetShelter SX, Server Rack Enclosure, TAA Compliant",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3325,7 +3325,7 @@
     {
         "model": "AR3107W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, White, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -3354,7 +3354,7 @@
     {
         "model": "AR3107X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides, Black, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3375,7 +3375,7 @@
     {
         "model": "AR3107X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Doors, Black, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3396,7 +3396,7 @@
     {
         "model": "AR3107X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides and Doors, Black, 2258H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3415,7 +3415,7 @@
     {
         "model": "AR3130",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 700W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3445,7 +3445,7 @@
     {
         "model": "AR3140",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 42U, Black, 1991H x 750W x 1070D mm with Casters, Feet, Vertical Cable Managers, Side Panels",
+        "title": "APC NetShelter SX, Networking Rack Enclosure with Casters, Feet, Vertical Cable Managers, Side Panels",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3483,7 +3483,7 @@
     {
         "model": "AR3140W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 42U, White, 1991H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Networking Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -3505,7 +3505,7 @@
     {
         "model": "AR3150",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991.4H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, 1991.4H x 750W x 1070D mm",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3536,7 +3536,7 @@
     {
         "model": "AR3150B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 750W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3559,7 +3559,7 @@
     {
         "model": "AR3150HACS",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Rear Doors, Black, 1991H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Rear Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3578,7 +3578,7 @@
     {
         "model": "AR3150SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Shock Packaging, 2000 lbs, Black, 2124H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3605,7 +3605,7 @@
     {
         "model": "AR3150W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, White, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -3630,7 +3630,7 @@
     {
         "model": "AR3150X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 42,
         "color": "Black",
         "height": 78.4,
@@ -3651,7 +3651,7 @@
     {
         "model": "AR3150X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Doors, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3671,7 +3671,7 @@
     {
         "model": "AR3150X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides and Doors, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3689,7 +3689,7 @@
     {
         "model": "AR3155",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Black, 2124H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3721,7 +3721,7 @@
     {
         "model": "AR3155B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 45U, 2124H x 750W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3744,7 +3744,7 @@
     {
         "model": "AR3155SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Shock Packaging, 2000 lbs, Black, 2124H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -3774,7 +3774,7 @@
     {
         "model": "AR3155W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, White, 2124H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "White",
         "height": 83.62,
@@ -3797,7 +3797,7 @@
     {
         "model": "AR3157",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3827,7 +3827,7 @@
     {
         "model": "AR3157B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3850,7 +3850,7 @@
     {
         "model": "AR3157SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Shock Packaging, 2000 lbs, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3877,7 +3877,7 @@
     {
         "model": "AR3157W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, White, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, 48U",
         "units": 42,
         "color": "White",
         "height": 88.9,
@@ -3903,7 +3903,7 @@
     {
         "model": "AR3157X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3924,7 +3924,7 @@
     {
         "model": "AR3157X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Doors, Black, 2258H x 750W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3944,7 +3944,7 @@
     {
         "model": "AR3157X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides and Doors, Black, 1991H x 600W x 1070D MM",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors, 1991H x 600W x 1070D MM",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -3962,7 +3962,7 @@
     {
         "model": "AR3180B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 800W x 1070D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -3984,7 +3984,7 @@
     {
         "model": "AR3187B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 800W x 1070D mm,w/ Side,Black",
+        "title": "APC NetShelter SX Server Rack Gen 2,w/ Side,Black",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4006,7 +4006,7 @@
     {
         "model": "AR3200",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, Colocation, 42U, Black, 1991H x 600W x 1070D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Colocation",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4034,7 +4034,7 @@
     {
         "model": "AR3300",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4071,7 +4071,7 @@
     {
         "model": "AR3300B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 600W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.4,
@@ -4096,7 +4096,7 @@
     {
         "model": "AR3300SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Shock Packaging, 2000 lbs, Black, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4122,7 +4122,7 @@
     {
         "model": "AR3300W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, White, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -4151,7 +4151,7 @@
     {
         "model": "AR3300W2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 600W x 1200D mm, with Sides, White",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -4186,7 +4186,7 @@
     {
         "model": "AR3300X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides, Black, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4206,7 +4206,7 @@
     {
         "model": "AR3300X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Doors, Black, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4227,7 +4227,7 @@
     {
         "model": "AR3300X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides and Doors, Black, 1991H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4246,7 +4246,7 @@
     {
         "model": "AR3305",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Black, 2124H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4282,7 +4282,7 @@
     {
         "model": "AR3305B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 45U, 2124H x 600W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4307,7 +4307,7 @@
     {
         "model": "AR3305SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Shock Packaging, 2000 lbs, Black, 2124H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4333,7 +4333,7 @@
     {
         "model": "AR3305W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, White, 2124H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "White",
         "height": 83.62,
@@ -4358,7 +4358,7 @@
     {
         "model": "AR3307",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Black, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4396,7 +4396,7 @@
     {
         "model": "AR3307B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 600W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4421,7 +4421,7 @@
     {
         "model": "AR3307SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Shock Packaging, 2000 lbs, Black, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4446,7 +4446,7 @@
     {
         "model": "AR3307W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, White, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -4472,7 +4472,7 @@
     {
         "model": "AR3307W2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 600W x 1200D mm, with Sides, White",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -4498,7 +4498,7 @@
     {
         "model": "AR3307X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides, Black, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4518,7 +4518,7 @@
     {
         "model": "AR3307X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Doors, Black, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4539,7 +4539,7 @@
     {
         "model": "AR3307X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides and Doors, Black, 2258H x 600W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4558,7 +4558,7 @@
     {
         "model": "AR3340",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 42U, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Networking Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4595,7 +4595,7 @@
     {
         "model": "AR3340W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 42U, White, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Networking Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -4620,7 +4620,7 @@
     {
         "model": "AR3347",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 48U, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Networking Rack Enclosure",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -4657,7 +4657,7 @@
     {
         "model": "AR3347W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Networking Rack Enclosure, 48U, White, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Networking Rack Enclosure",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -4675,7 +4675,7 @@
     {
         "model": "AR3350",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4705,7 +4705,7 @@
     {
         "model": "AR3350B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 750W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4730,7 +4730,7 @@
     {
         "model": "AR3350SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, Shock Packaging, 2000 lbs, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4760,7 +4760,7 @@
     {
         "model": "AR3350W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, White, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -4788,7 +4788,7 @@
     {
         "model": "AR3350W2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 750W x 1200D mm, with Sides, White",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "White",
         "height": 78.39,
@@ -4821,7 +4821,7 @@
     {
         "model": "AR3350X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4841,7 +4841,7 @@
     {
         "model": "AR3350X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Doors, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4861,7 +4861,7 @@
     {
         "model": "AR3350X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 42U, without Sides and Doors, Black, 1991H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -4879,7 +4879,7 @@
     {
         "model": "AR3355",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Black, 2124H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4909,7 +4909,7 @@
     {
         "model": "AR3355B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 45U, 2124H x 750W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4935,7 +4935,7 @@
     {
         "model": "AR3355SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, Shock Packaging, 2000 lbs, Black, 2124H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 45,
         "color": "Black",
         "height": 83.62,
@@ -4966,7 +4966,7 @@
     {
         "model": "AR3355W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 45U, White, 2124H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 45,
         "color": "White",
         "height": 83.62,
@@ -4991,7 +4991,7 @@
     {
         "model": "AR3357",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5021,7 +5021,7 @@
     {
         "model": "AR3357B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5046,7 +5046,7 @@
     {
         "model": "AR3357SP",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, Shock Packaging, 2000 lbs, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, Shock Packaging",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5076,7 +5076,7 @@
     {
         "model": "AR3357W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, White, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -5102,7 +5102,7 @@
     {
         "model": "AR3357W2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 750W x 1200D mm, with Sides, White",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "White",
         "height": 88.9,
@@ -5128,7 +5128,7 @@
     {
         "model": "AR3357X609",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5149,7 +5149,7 @@
     {
         "model": "AR3357X610",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Doors, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5169,7 +5169,7 @@
     {
         "model": "AR3357X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U, without Sides and Doors, Black, 2258H x 750W x 1200D mm",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5187,7 +5187,7 @@
     {
         "model": "AR3380B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 42U, 1991H x 800W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 42,
         "color": "Black",
         "height": 78.4,
@@ -5211,7 +5211,7 @@
     {
         "model": "AR3387B2",
         "vendor": "APC",
-        "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 800W x 1200D mm, with Sides, Black",
+        "title": "APC NetShelter SX Server Rack Gen 2, with Sides",
         "units": 48,
         "color": "Black",
         "height": 88.9,
@@ -5235,7 +5235,7 @@
     {
         "model": "AR3810",
         "vendor": "APC",
-        "title": "APC NetShelter AV, Server Rack Enclosure, 42U, 10-32 Threaded Rails, Black, 1991H x 600W x 825D mm",
+        "title": "APC NetShelter AV, Server Rack Enclosure, 10-32 Threaded Rails",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -5259,7 +5259,7 @@
     {
         "model": "AR3812",
         "vendor": "APC",
-        "title": "APC NetShelter AV, Server Rack Enclosure, 42U, 10-32 Threaded Rails, without Sides, Roofs, Doors, Black, 1991H x 600W x 806D mm",
+        "title": "APC NetShelter AV, Server Rack Enclosure, 10-32 Threaded Rails, without Sides, Roofs, Doors",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -5283,7 +5283,7 @@
     {
         "model": "AR5342",
         "vendor": "APC",
-        "title": "NetShelter RX, 42U, NEMA 4 Insulated Enclosure, 2007H x 762W x 1070D mm, w/ Lighting",
+        "title": "NetShelter RX, NEMA 4 Insulated Enclosure, w/ Lighting",
         "units": 42,
         "color": "White",
         "height": 79,
@@ -5303,7 +5303,7 @@
     {
         "model": "MDC42SX5KVAT",
         "vendor": "APC",
-        "title": "Ecostruxure Micro Data Center, with 42U SX rack, 5kVA, 208V, 60 Hz, pre assembled, 1991H x 600W x 1070D mm",
+        "title": "Ecostruxure Micro Data Center, with SX rack, 5kVA, 208V, 60 Hz, pre assembled",
         "units": 42,
         "color": "Black",
         "height": 78.39,
@@ -5324,7 +5324,7 @@
     {
         "model": "NSYSFRSEDC206100",
         "vendor": "APC",
-        "title": "Netshelter RX 42U Enclosure 600mm x 1000mm ",
+        "title": "Netshelter RX Enclosure",
         "units": 42,
         "color": "White",
         "height": 82.7,
@@ -5343,7 +5343,7 @@
     {
         "model": "NSYSFRSEDC20680",
         "vendor": "APC",
-        "title": "Netshelter RX 42U Enclosure 600mm x 800mm ",
+        "title": "Netshelter RX Enclosure",
         "units": 42,
         "color": "White",
         "height": 82.7,
@@ -5362,7 +5362,7 @@
     {
         "model": "NSYSFRSEDC208100",
         "vendor": "APC",
-        "title": "Netshelter RX 42U Enclosure 800mm x 1000mm ",
+        "title": "Netshelter RX Enclosure",
         "units": 42,
         "color": "White",
         "height": 82.7,
@@ -5381,7 +5381,7 @@
     {
         "model": "NSYSFRSEDC208120",
         "vendor": "APC",
-        "title": "Netshelter RX 42U Enclosure 800mm x 1200mm ",
+        "title": "Netshelter RX Enclosure",
         "units": 42,
         "color": "White",
         "height": 82.7,

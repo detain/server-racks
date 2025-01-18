@@ -8,7 +8,7 @@ foreach ($data as $model => $row) {
     $rack = [
         'model' => $model,
         'vendor' => 'Tripp Lite',
-        'title' => $row['title'],
+        'title' => str_replace([' '.$row['specs']['PHYSICAL']['Rack Height'], ', '.$row['specs']['PHYSICAL']['Color'], ', TAA'], ['', '', ''], $row['title']),
         'color' => $row['specs']['PHYSICAL']['Color'],
         'units' => (int)str_replace('U', '', $row['specs']['PHYSICAL']['Rack Height']),
         'height' => 0,
@@ -20,6 +20,8 @@ foreach ($data as $model => $row) {
         'images' => [],
         'files' => [],
     ];
+    $rack['title'] = preg_replace('/ - \d+ in. Depth,/', ',', $rack['title']);
+    $rack['title'] = preg_replace('/, \d+ in. Depth,/', ',', $rack['title']);
     if (isset($row['sections']['Design Resources'])) {
         foreach ($row['sections']['Design Resources'] as $url => $title) {
             if (strpos($title, 'BIM Object') !== false) {
@@ -65,6 +67,10 @@ foreach ($data as $model => $row) {
         'images' => [],
         'files' => [],
     ];
+    $rack['title'] = str_replace([', '.$rack['units'].'U', ' '.$rack['units'].'U', ', '.$rack['color'], ' '.$rack['color']], ['', '', '', ''], $rack['title']);
+    $rack['title'] = preg_replace('/, \d+H x \d+W x \d+D mm/', '', $rack['title']);
+    $rack['title'] = preg_replace('/ \d+mm x \d+mm /', '', $rack['title']);
+    $rack['title'] = preg_replace('/, \d+ lbs/', '', $rack['title']);
     $idx = 0;
     foreach ($row['images'] as $url => $title) {
         $idx++;
