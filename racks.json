@@ -42,7 +42,7 @@
     {
         "model": "ETN-ENC423042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -62,7 +62,7 @@
     {
         "model": "ETN-ENC423048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 42,
         "height": 81,
@@ -122,7 +122,7 @@
     {
         "model": "ETN-ENC443042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -142,7 +142,7 @@
     {
         "model": "ETN-ENC443048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 44,
         "height": 84,
@@ -202,7 +202,7 @@
     {
         "model": "ETN-ENC483042S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -222,7 +222,7 @@
     {
         "model": "ETN-ENC483048S",
         "vendor": "Tripp Lite",
-        "title": "Eaton Paramount Server Rack Enclosure - Wide, Doors Included, No Side Panels",
+        "title": "Eaton Paramount Server Rack Enclosure, Doors Included, No Side Panels",
         "color": "Black",
         "units": 48,
         "height": 91,
@@ -303,7 +303,7 @@
     {
         "model": "SR42BMDEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack, Expansion Version - no sides, doors or roof",
+        "title": "Tripp Lite series SmartRack 4-Post Open Frame Rack, Expansion Version - no sides, doors or roof",
         "color": "Black",
         "units": 42,
         "height": 79.5,
@@ -319,7 +319,7 @@
     {
         "model": "SR42UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -351,7 +351,7 @@
     {
         "model": "SR42UB1032",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -368,7 +368,7 @@
     {
         "model": "SR42UBCL",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
+        "title": "Tripp Lite series SmartRack Co-Location Rack Enclosure Cabinet - 2 separate compartments",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -398,7 +398,7 @@
     {
         "model": "SR42UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series SmartRack Server Rack, Doors & Side Panels Included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -413,7 +413,7 @@
     {
         "model": "SR42UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -428,7 +428,7 @@
     {
         "model": "SR42UBEIS",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet for Harsh Environments",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet for Harsh Environments",
         "color": "Black",
         "units": 42,
         "height": 79.8,
@@ -451,7 +451,7 @@
     {
         "model": "SR42UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Expandable Standard-Depth Server Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Expandable Server Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -466,7 +466,7 @@
     {
         "model": "SR42UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series Standard-Depth 4-Post Premium Open Frame Rack - No Doors or Side Panels",
+        "title": "Tripp Lite series 4-Post Premium Open Frame Rack - No Doors or Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -480,7 +480,7 @@
     {
         "model": "SR42UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series Standard-Depth 4-Post Premium Open Frame Rack - No Doors, Side Panels or Top Panel",
+        "title": "Tripp Lite series 4-Post Premium Open Frame Rack - No Doors, Side Panels or Top Panel",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -494,7 +494,7 @@
     {
         "model": "SR42UBG",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with Clear Acrylic Window",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Clear Acrylic Window",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -508,7 +508,7 @@
     {
         "model": "SR42UBKD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Knock-Down Standard-Depth Rack Enclosure Cabinet Kit",
+        "title": "Tripp Lite series SmartRack Knock-Down Rack Enclosure Cabinet Kit",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -525,7 +525,7 @@
     {
         "model": "SR42UBMD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -541,7 +541,7 @@
     {
         "model": "SR42UBMDEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Mid-Depth Expansion Rack - side panels not included",
+        "title": "Tripp Lite series SmartRack Expansion Rack - side panels not included",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -556,7 +556,7 @@
     {
         "model": "SR42UBMDEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack - no sides or doors",
+        "title": "Tripp Lite series SmartRack 4-Post Open Frame Rack - no sides or doors",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -604,7 +604,7 @@
     {
         "model": "SR42UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet shipping",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors, side panels & shock pallet shipping",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -620,7 +620,7 @@
     {
         "model": "SR42UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -638,7 +638,7 @@
     {
         "model": "SR42UBWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Extra-Wide Rack Enclosure Cabinet with Doors and Side Panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Doors and Side Panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -667,7 +667,7 @@
     {
         "model": "SR42UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -684,7 +684,7 @@
     {
         "model": "SR42UBWDVRT",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Two Pre-Installed SRCABLEVRT3, with sides & doors",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Two Pre-Installed SRCABLEVRT3, with sides & doors",
         "color": "Black",
         "units": 42,
         "height": 79.5,
@@ -701,7 +701,7 @@
     {
         "model": "SR42UBZ4",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Seismic-Certified Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Seismic-Certified Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -720,7 +720,7 @@
     {
         "model": "SR45UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Server Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Server Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -755,7 +755,7 @@
     {
         "model": "SR45UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series Server Rack, Doors & Side Panels Included",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -787,7 +787,7 @@
     {
         "model": "SR45UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -802,7 +802,7 @@
     {
         "model": "SR45UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -817,7 +817,7 @@
     {
         "model": "SR45UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack",
+        "title": "Tripp Lite series SmartRack 4-Post Premium Open Frame Rack",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -831,7 +831,7 @@
     {
         "model": "SR45UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
+        "title": "Tripp Lite series SmartRack 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -845,7 +845,7 @@
     {
         "model": "SR45UBMD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Mid-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -861,7 +861,7 @@
     {
         "model": "SR45UBMDEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack 4-Post Mid-Depth Open Frame Rack",
+        "title": "Tripp Lite series SmartRack 4-Post Open Frame Rack",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -890,7 +890,7 @@
     {
         "model": "SR45UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -906,7 +906,7 @@
     {
         "model": "SR45UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -931,7 +931,7 @@
     {
         "model": "SR45UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet - Doors & Side Panels Included, Shock Pallet Packaging",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet - Doors & Side Panels Included, Shock Pallet Packaging",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -946,7 +946,7 @@
     {
         "model": "SR45UBWDVRT",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with Doors and Side Panels, 2 Pre-Installed Cable Managers",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with Doors and Side Panels, 2 Pre-Installed Cable Managers",
         "color": "Black",
         "units": 45,
         "height": 83.8,
@@ -963,7 +963,7 @@
     {
         "model": "SR48UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -980,7 +980,7 @@
     {
         "model": "SR48UBCL",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Co-Location Standard-Depth Rack Enclosure Cabinet - 2 separate compartments",
+        "title": "Tripp Lite series SmartRack Co-Location Rack Enclosure Cabinet - 2 separate compartments",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1010,7 +1010,7 @@
     {
         "model": "SR48UBDP48",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Extra-Deep Server Rack - 48 in. (1219 mm) Depth, Doors & Side Panels Included",
+        "title": "Tripp Lite series SmartRack Server Rack, Doors & Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1025,7 +1025,7 @@
     {
         "model": "SR48UBDPWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Deep and Wide Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1040,7 +1040,7 @@
     {
         "model": "SR48UBDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Deep Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
+        "title": "Tripp Lite series SmartRack Deep Rack Enclosure Cabinet, Doors and Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1069,7 +1069,7 @@
     {
         "model": "SR48UBEXP",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet - side panels not included",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet - side panels not included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1084,7 +1084,7 @@
     {
         "model": "SR48UBEXPND",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides or Doors",
+        "title": "Tripp Lite series SmartRack 4-Post Premium Open Frame Rack with No Sides or Doors",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1098,7 +1098,7 @@
     {
         "model": "SR48UBEXPNDNR3",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
+        "title": "Tripp Lite series SmartRack 4-Post Premium Open Frame Rack with No Sides, Doors or Roof",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1112,7 +1112,7 @@
     {
         "model": "SR48UBSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1126,7 +1126,7 @@
     {
         "model": "SR48UBWD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1152,7 +1152,7 @@
     {
         "model": "SR48UBWD8",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Extra-Wide Rack Enclosure Cabinet, Doors and Side Panels Included",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet, Doors and Side Panels Included",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1181,7 +1181,7 @@
     {
         "model": "SR48UBWDSP1",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Wide Standard-Depth Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors, side panels & shock pallet packaging",
         "color": "Black",
         "units": 48,
         "height": 89,
@@ -1296,7 +1296,7 @@
     {
         "model": "SRH42UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.6,
@@ -1378,7 +1378,7 @@
     {
         "model": "SRH42UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.6,
@@ -1419,7 +1419,7 @@
     {
         "model": "SRH42UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.6,
@@ -1461,7 +1461,7 @@
     {
         "model": "SRH42UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Deep Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.6,
@@ -1502,7 +1502,7 @@
     {
         "model": "SRH42UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 42,
         "height": 79.6,
@@ -1544,7 +1544,7 @@
     {
         "model": "SRH45UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.9,
@@ -1626,7 +1626,7 @@
     {
         "model": "SRH45UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.9,
@@ -1667,7 +1667,7 @@
     {
         "model": "SRH45UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.9,
@@ -1707,7 +1707,7 @@
     {
         "model": "SRH45UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Deep Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.9,
@@ -1748,7 +1748,7 @@
     {
         "model": "SRH45UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 45,
         "height": 84.9,
@@ -1790,7 +1790,7 @@
     {
         "model": "SRH48UW",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.2,
@@ -1872,7 +1872,7 @@
     {
         "model": "SRH48UWDP54",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Standard-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.2,
@@ -1913,7 +1913,7 @@
     {
         "model": "SRH48UWDP54WD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Extra-Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.2,
@@ -1954,7 +1954,7 @@
     {
         "model": "SRH48UWDPWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Deep Extra-Wide Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Deep Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.2,
@@ -1995,7 +1995,7 @@
     {
         "model": "SRH48UWWD8",
         "vendor": "Tripp Lite",
-        "title": "Eaton SmartRack Standard-Depth Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
+        "title": "Eaton SmartRack Extra-Width Heavy-Duty Rack Enclosure Cabinet for AI Servers",
         "color": "White",
         "units": 48,
         "height": 90.2,
@@ -2107,7 +2107,7 @@
     {
         "model": "SRQP42UB",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Standard-Depth Quiet Server Rack Enclosure Cabinet with Sound Suppression",
+        "title": "Tripp Lite series SmartRack Quiet Server Rack Enclosure Cabinet with Sound Suppression",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -3436,8 +3436,8 @@
     {
         "model": "AR3157W",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, 48U",
-        "units": 42,
+        "title": "APC NetShelter SX, Server Rack Enclosure",
+        "units": 48,
         "color": "White",
         "height": 88.9,
         "width": 29.5,
@@ -3494,7 +3494,7 @@
     {
         "model": "AR3157X617",
         "vendor": "APC",
-        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors, 1991H x 600W x 1070D MM",
+        "title": "APC NetShelter SX, Server Rack Enclosure, without Sides and Doors",
         "units": 48,
         "color": "Black",
         "height": 88.9,

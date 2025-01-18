@@ -1,4 +1,4 @@
-<?php
+\<?php
 
 require_once __DIR__.'/../../include/functions.inc.php';
 
@@ -17,8 +17,10 @@ foreach ($data as $model => $row) {
         'images' => [],
         'files' => [],
     ];
-    $rack['title'] = preg_replace('/ - \d+ in. Depth,/', ',', $rack['title']);
-    $rack['title'] = preg_replace('/, \d+ in. Depth,/', ',', $rack['title']);
+    $rack['title'] = str_replace([' - Wide,', ' Standard-Depth', ' Extra-Deep', ' Extra-Wide', ' Deep and Wide', ' Mid-Depth', ' Shallow-Deth', 'SmartRack Wide'], [',', '', '', '', '', '', '', 'SmartRack'], $rack['title']);
+    $rack['title'] = preg_replace('/ - \d+ in. Depth,/i', ',', $rack['title']);
+    $rack['title'] = preg_replace('/ - \d+ in. \(\d+ mm\) Depth,/i', ',', $rack['title']);
+    $rack['title'] = preg_replace('/, \d+ in. Depth,/i', ',', $rack['title']);
     if (isset($row['sections']['Design Resources'])) {
         foreach ($row['sections']['Design Resources'] as $url => $title) {
             if (strpos($title, 'BIM Object') !== false) {
@@ -62,9 +64,9 @@ foreach ($data as $model => $row) {
         'files' => [],
     ];
     $rack['title'] = str_replace([', '.$rack['units'].'U', ' '.$rack['units'].'U', ', '.$rack['color'], ' '.$rack['color']], ['', '', '', ''], $rack['title']);
-    $rack['title'] = preg_replace('/, \d+H x \d+W x \d+D mm/', '', $rack['title']);
-    $rack['title'] = preg_replace('/ \d+mm x \d+mm /', '', $rack['title']);
-    $rack['title'] = preg_replace('/, \d+ lbs/', '', $rack['title']);
+    $rack['title'] = preg_replace('/, \d+H x \d+W x \d+D mm/i', '', $rack['title']);
+    $rack['title'] = preg_replace('/ \d+mm x \d+mm /i', '', $rack['title']);
+    $rack['title'] = preg_replace('/, \d+ lbs/i', '', $rack['title']);
     $idx = 0;
     foreach ($row['images'] as $url => $title) {
         $idx++;
