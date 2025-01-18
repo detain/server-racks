@@ -570,7 +570,7 @@
     {
         "model": "SR42UBSD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -587,7 +587,7 @@
     {
         "model": "SR42UBSD1032",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet, Threaded 10-32 Mounting Holes with doors & side panels",
         "color": "Black",
         "units": 42,
         "height": 78.5,
@@ -875,7 +875,7 @@
     {
         "model": "SR45UBSD",
         "vendor": "Tripp Lite",
-        "title": "Tripp Lite series SmartRack Shallow-Depth Rack Enclosure Cabinet with doors & side panels",
+        "title": "Tripp Lite series SmartRack Rack Enclosure Cabinet with doors & side panels",
         "color": "Black",
         "units": 45,
         "height": 83.8,

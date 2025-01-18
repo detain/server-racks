@@ -17,7 +17,7 @@ foreach ($data as $model => $row) {
         'images' => [],
         'files' => [],
     ];
-    $rack['title'] = str_replace([' - Wide,', ' Standard-Depth', ' Extra-Deep', ' Extra-Wide', ' Deep and Wide', ' Mid-Depth', ' Shallow-Deth', 'SmartRack Wide'], [',', '', '', '', '', '', '', 'SmartRack'], $rack['title']);
+    $rack['title'] = str_replace([' - Wide,', ' Standard-Depth', ' Extra-Deep', ' Extra-Wide', ' Deep and Wide', ' Mid-Depth', ' Shallow-Depth', 'SmartRack Wide'], [',', '', '', '', '', '', '', 'SmartRack'], $rack['title']);
     $rack['title'] = preg_replace('/ - \d+ in. Depth,/i', ',', $rack['title']);
     $rack['title'] = preg_replace('/ - \d+ in. \(\d+ mm\) Depth,/i', ',', $rack['title']);
     $rack['title'] = preg_replace('/, \d+ in. Depth,/i', ',', $rack['title']);
