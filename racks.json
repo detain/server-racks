@@ -288,8 +288,7 @@
         "max_mount_depth": 48,
         "perm_load": 800,
         "images": {
-            "tripplite_sr2post-front-2xl.jpg": "front view",
-            "tripplite_": "SR2POST video"
+            "tripplite_sr2post-front-2xl.jpg": "front view"
         },
         "files": {
             "https://www.bimobject.com/en-us/embed/tripplite/product/SR2POST/tripplite": "SR2POST BIM Object Download"
@@ -394,8 +393,7 @@
             "tripplite_sr42ub-other12-2xl.jpg": "other view",
             "tripplite_sr42ub-other13-2xl.jpg": "other view",
             "tripplite_sr42ub-other14-2xl.jpg": "other view",
-            "tripplite_sr42ub-other15-2xl.jpg": "other view",
-            "tripplite_": "SR42UB video"
+            "tripplite_sr42ub-other15-2xl.jpg": "other view"
         },
         "files": {
             "https://www.bimobject.com/en-us/embed/tripplite/product/SR42UB/tripplite": "SR42UB BIM Object Download"
@@ -515,8 +513,7 @@
             "tripplite_sr42ubeis-other06-2xl.jpg": "other view",
             "tripplite_sr42ubeis-other07-2xl.jpg": "other view",
             "tripplite_sr42ubeis-other08-2xl.jpg": "other view",
-            "tripplite_sr42ubeis-other09-2xl.jpg": "other view",
-            "tripplite_": "SR42UBEIS video"
+            "tripplite_sr42ubeis-other09-2xl.jpg": "other view"
         },
         "files": []
     },
@@ -605,8 +602,7 @@
             "tripplite_sr42ubkd-front-2xl.jpg": "front view",
             "tripplite_sr42ubkd-back-2xl.jpg": "back view",
             "tripplite_sr42ubkd-other01-2xl.jpg": "other view",
-            "tripplite_sr42ubkd-other02-2xl.jpg": "other view",
-            "tripplite_": "SR42UBKD video"
+            "tripplite_sr42ubkd-other02-2xl.jpg": "other view"
         },
         "files": []
     },
@@ -857,8 +853,7 @@
             "tripplite_sr45ub-other02-2xl.jpg": "other view",
             "tripplite_sr45ub-other03-2xl.jpg": "other view",
             "tripplite_sr45ub-other04-2xl.jpg": "other view",
-            "tripplite_sr45ub-other05-2xl.jpg": "other view",
-            "tripplite_": "SR45UB video"
+            "tripplite_sr45ub-other05-2xl.jpg": "other view"
         },
         "files": []
     },
@@ -1138,8 +1133,7 @@
         "perm_load": 3500,
         "images": {
             "tripplite_sr48ub-front-2xl.jpg": "front view",
-            "tripplite_sr48ub-back-2xl.jpg": "back view",
-            "tripplite_": "SR48UB video"
+            "tripplite_sr48ub-back-2xl.jpg": "back view"
         },
         "files": {
             "https://www.bimobject.com/en-us/embed/tripplite/product/SR48UB/tripplite": "SR48UB BIM Object Download"
@@ -1424,8 +1418,7 @@
         "max_mount_depth": 36,
         "perm_load": 1000,
         "images": {
-            "tripplite_sr4post-front-2xl.jpg": "front view",
-            "tripplite_": "SR4POST video"
+            "tripplite_sr4post-front-2xl.jpg": "front view"
         },
         "files": {
             "https://www.bimobject.com/en-us/embed/tripplite/product/SR4POST/tripplite": "SR4POST BIM Object Download"
@@ -1506,8 +1499,7 @@
             "tripplite_srcool5kwrm42u-other19-2xl.jpg": "other view",
             "tripplite_srcool5kwrm42u-other20-2xl.jpg": "other view",
             "tripplite_srcool5kwrm42u-other21-2xl.jpg": "other view",
-            "tripplite_srcool5kwrm42u-features.jpg": "SRCOOL5KWRM42U highlights",
-            "tripplite_": "SRCOOL5KWRM42U video"
+            "tripplite_srcool5kwrm42u-features.jpg": "SRCOOL5KWRM42U highlights"
         },
         "files": []
     },
@@ -2338,8 +2330,7 @@
             "tripplite_srprc12-other15-2xl.jpg": "other view",
             "tripplite_srprc12-other16-2xl.jpg": "other view",
             "tripplite_srprc12-other17-2xl.jpg": "The condenser mounts on a rooftop or condenser yard and requires professional installation and connection to the indoor cooling unit.",
-            "tripplite_srp-r-c12-features.jpg": "SRP-R-C12 highlights",
-            "tripplite_": "SRP-R-C12 video"
+            "tripplite_srp-r-c12-features.jpg": "SRP-R-C12 highlights"
         },
         "files": {
             "https://www.bimobject.com/en-us/tripplite/product/srcooldxrw12": "BIM Object for SRCOOLDXRW12 In-Row Precision Cooling System"
@@ -2377,8 +2368,7 @@
             "tripplite_srprc25-other15-2xl.jpg": "other view",
             "tripplite_srprc25-other16-2xl.jpg": "other view",
             "tripplite_srprc25-other17-2xl.jpg": "The condenser mounts on a rooftop or condenser yard and requires professional installation and connection to the indoor cooling unit.",
-            "tripplite_srp-r-c25-features.jpg": "SRP-R-C25 highlights",
-            "tripplite_": "SRP-R-C25 video"
+            "tripplite_srp-r-c25-features.jpg": "SRP-R-C25 highlights"
         },
         "files": {
             "https://www.bimobject.com/en-us/tripplite/product/srcooldxrw12": "BIM Object for SRCOOLDXRW12 In-Row Precision Cooling System"
@@ -3996,7 +3986,7 @@
         "vendor": "APC",
         "title": "APC NetShelter SX Server Rack Gen 2, 48U, 2258H x 800W x 1070D mm,w/ Side,Black",
         "units": 48,
-        "color": null,
+        "color": "Black",
         "height": 88.9,
         "width": 31.5,
         "depth": 42.1,
@@ -5295,7 +5285,7 @@
         "vendor": "APC",
         "title": "NetShelter RX, 42U, NEMA 4 Insulated Enclosure, 2007H x 762W x 1070D mm, w/ Lighting",
         "units": 42,
-        "color": null,
+        "color": "White",
         "height": 79,
         "width": 30,
         "depth": 42,
@@ -5315,7 +5305,7 @@
         "vendor": "APC",
         "title": "Ecostruxure Micro Data Center, with 42U SX rack, 5kVA, 208V, 60 Hz, pre assembled, 1991H x 600W x 1070D mm",
         "units": 42,
-        "color": null,
+        "color": "Black",
         "height": 78.39,
         "width": 23.62,
         "depth": 42.13,
@@ -5336,7 +5326,7 @@
         "vendor": "APC",
         "title": "Netshelter RX 42U Enclosure 600mm x 1000mm ",
         "units": 42,
-        "color": null,
+        "color": "White",
         "height": 82.7,
         "width": 23.6,
         "depth": 39.4,
@@ -5355,7 +5345,7 @@
         "vendor": "APC",
         "title": "Netshelter RX 42U Enclosure 600mm x 800mm ",
         "units": 42,
-        "color": null,
+        "color": "White",
         "height": 82.7,
         "width": 23.6,
         "depth": 31.5,
@@ -5374,7 +5364,7 @@
         "vendor": "APC",
         "title": "Netshelter RX 42U Enclosure 800mm x 1000mm ",
         "units": 42,
-        "color": null,
+        "color": "White",
         "height": 82.7,
         "width": 31.5,
         "depth": 39.4,
@@ -5393,7 +5383,7 @@
         "vendor": "APC",
         "title": "Netshelter RX 42U Enclosure 800mm x 1200mm ",
         "units": 42,
-        "color": null,
+        "color": "White",
         "height": 82.7,
         "width": 31.5,
         "depth": 47.2,

@@ -28,6 +28,9 @@ foreach ($data as $model => $row) {
         }
     }
     foreach ($row['images'] as $url => $title) {
+	if ($url == '') {
+            continue;
+        }
         $base = basename($url);
 	if (substr($url, 0, 1) == '/') {
 		$url = 'https:'.$url;
@@ -52,7 +55,7 @@ foreach ($data as $model => $row) {
         'vendor' => 'APC',
         'title' => str_replace('[TAA, BAA_COTS] ', '', $row['product-info']['description']),
         'units' => (int)str_replace('U', '', isset($row['characteristic-tables']['Main']['Number of rack unit']) ? $row['characteristic-tables']['Main']['Number of rack unit'] : $row['characteristic-tables']['Physical']['Number of rack unit']),
-        'color' => isset($row['characteristic-tables']['Physical']['Color']) ? $row['characteristic-tables']['Physical']['Color'] : null,
+        'color' => isset($row['characteristic-tables']['Physical']['Color']) ? $row['characteristic-tables']['Physical']['Color'] : (in_array($model, ['AR3187B2', 'MDC42SX5KVAT']) ? 'Black' : 'White'),
         'height' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Height'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Height'],
         'width' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Width'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Width'],
         'depth' => preg_match('/^([\d\.]+) in/', $row['characteristic-tables']['Physical']['Depth'], $matches) ? (float)$matches[1] : $row['characteristic-tables']['Physical']['Depth'],
